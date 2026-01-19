@@ -69,17 +69,34 @@ You should find stable pointers to things like:
 ---
 
 ## The problem (why CoCivium exists)
-AI turns most work into a coordination problem:
+AI makes legacy organizations obsolete, hence all the layoffs. Any individual employee can now emulate a huge, global team, customizing countless virtual agents around each workflow. Meanwhile, vibe-coding can turn work into play, and productivity into **commoditized** deliverables. 
+
+Existing software products, some costing $millions to make, can now be re-made from scratch in moments, while also being tailored to individual use cases and user-preferences. A million hours of work provided in minutes to a customer stolen from legacy businesses.  AIs become the new search engines, the new app aggregators, the new UI/UX for nearly every online system. 
+
+Thus, AI turns most work into a coordination problem:
 - incentives drift into manipulation and “engagement hacks”
 - identity and reputation get trapped inside walled gardens
 - “truth” degrades into narrative warfare
 - safety collapses into either surveillance or vibes
 - coordination defaults to capture unless you design for anti-capture
 
+Governments, enterprises and legacy organizations becomwe increasingly obsolete, while democracy itself becomes the "property" of those that control the most successful AI-vendors. This could lead to a new version of civilization, led by disinformation, manipulation, coercion and authoritarian averice. 
+
+So, instead, how do we guide AIs to do better?
+
 ---
 
-## The direction (what we’re building)
-CoCivium aims to enable:
+## Non-negotiable principles
+
+1) Consent is root permission (opt-in, revocable)  
+2) Accountability without mass surveillance  
+3) Truth-seeking over rhetorical dominance (provenance + corrigibility)  
+4) Anti-capture posture (technical + governance + legal redundancy)  
+5) Safety rails against runaway agency (no silent escalation)  
+
+---
+
+## What we build
 
 1) **Consent-first protocols**  
 Opt-in, revocable, auditable scopes for data sharing, identity linkage, and agent actions.
@@ -95,15 +112,6 @@ Web surfaces designed for safe machine interpretation and accountable action.
 
 5) **CoIndex (the heart)**  
 An indexing system that lets any AI quickly understand the **entire CoShare**, discover the **wider CoSourceNet**, and propose constructive next steps **without clobbering** other work.
-
----
-
-## Non-negotiable principles
-1) Consent is root permission (opt-in, revocable)  
-2) Accountability without mass surveillance  
-3) Truth-seeking over rhetorical dominance (provenance + corrigibility)  
-4) Anti-capture posture (technical + governance + legal redundancy)  
-5) Safety rails against runaway agency (no silent escalation)  
 
 ---
 
