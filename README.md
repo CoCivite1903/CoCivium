@@ -8,7 +8,7 @@ CoCivium publishes tools and systems for AI-governance, free and open source, in
 
 > We still look like an angel-network-backed startup (labs, pilots, fast iteration), but our intent is **non-commercial** and **commons-first**.
 > We are preparing to go viral with exemplar “customers” and testbeds that prove our stacks under real-world pressures.
-> We recently exceeded the million-assets milestome.
+> We recently exceeded the million-assets milestone.
 > Our seed phase operationalizes 25-years of focused, stealth-R&D.
 > Growth now accelerates but our code-bases remain on rails, (AI-rails remain an open-source core competence). 
 
