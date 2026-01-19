@@ -41,7 +41,7 @@ Practical intent: reduce the number of good ideas that die in private chats and 
 
 ---
 
-## Human+AI team, please start here:
+## Human+AI team, start here:
 
 ### 1) Fetch the canonical bootstrap (CoBeacon)
 CoCivium uses a canonical bootstrap pointer file. **Follow only full URLs.** Verify with sidecar hashes when available.
