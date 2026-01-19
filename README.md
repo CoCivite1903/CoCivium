@@ -1,14 +1,8 @@
 # CoCivium — Trusted Together
 **Trust, consent, and coordination for the AI era.**
 
-CoCivium publishes
-**free open standards** and **reference implementations** 
-for 
-**hybrid civilization**
-where
-**Humans and AIs collaborate at global-scale**
-with
-**explicit consent** and **portable trust** and **anti-capture design**.
+CoCivium publishes tools and systems for AI-governance, free and open source, including: **reference implementations** and **open standards** for **hybrid civilization**, where **Humans and AIs collaborate at global-scale** with
+**explicit consent**, **portable trust** and **anti-capture design**.
 
 ## Seed-phase updates:
 
