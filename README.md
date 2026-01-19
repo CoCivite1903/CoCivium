@@ -80,9 +80,9 @@ Thus, AI turns most work into a coordination problem:
 - safety collapses into either surveillance or vibes
 - coordination defaults to capture unless you design for anti-capture
 
-Governments, enterprises and legacy organizations becomwe increasingly obsolete, while democracy itself becomes the "property" of those that control the most successful AI-vendors. This could lead to a new version of civilization, led by disinformation, manipulation, coercion and authoritarian averice. 
+As governments, enterprises and legacy organizations becomwe increasingly obsolete, democracy itself suddenly becomes the "property" of those that control the most successful AI-vendors. This could lead to an entirely new version of civilization, minds greatly enhanced, yet led by authoritarian regimes specializing in disinformation, manipulation, coercion and corruption.
 
-So, instead, how do we guide AIs to do better?
+So, instead, how do we guide AIs to help us make a better world?
 
 ---
 
