@@ -1,12 +1,50 @@
 # CoCivium — Trusted Together
 **Trust, consent, and coordination for the AI era.**
 
-CoCivium publishes tools and systems for AI-governance, free and open source, including: **reference implementations** and **open standards** for **hybrid civilization**, where **Humans and AIs collaborate at global-scale** with
-**explicit consent**, **portable trust** and **anti-capture design**.
+The world is a mess of conflicts and self-serving interests, as a species we have not yet done a good job of looking after it, or eachother. It becomes increasingly easy to just give up and let the world rot, as it gets harder to pull-together the potential good, in all of humanity. 
+
+CoCivium was created to serve those who believe we exist for a greater purpose than we can yet understand, and to serve those who do not yet realize, we all matter. To this end, we assume the purpose until we know better what it is, and from there, we pull-together.
+
+>  "This is the way: no coercion, no corruption, no crowns; we think, therefore we are; therefore we are to think, therefore, to think, we are: CoCivium."
+
+CoCivium is thus a "way", a way of thinking using emerging technologies; a way for humans to trust AIs and a way for AIs to engage with humans, their IDs and their avatars. 
+
+Initially, all CoCivium does is allow all participants, bio and synthetic, to present their reputations in ways that any online platform can align with, not just AI-platforms. But this alone has profound impacts on how society works. Imagine being able to pick and chose who you help and who helps you, based on proof of trust. 
+
+Imagine knowing what you see and hear is verified as true, with evidence and receipts, instead of post-truth claims designed to manipulate your opinions. Imagine growing wiser and more reasonable because your thinking tools "emergent ethics" that can not be captured or corrupted without the unanimous consent of we the beings.  And imagine, exponentially improved productivity, where what you get done is mostly automated, but your dreams can not be.  Imagine then, your value to the future and those around you being in how well you can communicate and share what you dream should be.  This then is CoCvium, the way.  
+
+To achieve all this we make assumptions and theories about how societies will work, and then provide tools to test out how best to enable such socieites. For example, we assume organizations, businesses, governments and beings can all CoEvolve together, continuously.  We assume that a universal language can also continually evolve, based on what AIs inherently evovle for themselves if allowed to, a CoGibber language so profoundly n-pdimensional it can also serve as a cultural substrate.
+
+We also test auto-evolution in all we do, as every asset we make, every continually integrated system, evolves, but not exponentially, instead with guardrails and safeties and human-gating to ensure the systems that make societies work are never Frankensteinian. Our "pay it forward" ways are thus part of our enhanced-thinking, enhanced doing and enhanced being.  
+
+Yet CoCivium does not offer a Faith or a Religion, just assumptions, theories, policies and toolsets, that must be continually tested in real-world practice. As such, CoCivium stands to be proven wrong, in any and all its offerings, and it must always adapt accordingly, to best fit the emerging social needs of society, humanity and humanity's AIs. 
+
+[ChatGPT: add evergreen-link placeholders to whatever you do with the next paragraph-list, please]
+
+Hightlighted assets:
+- CoTheory of Civilization,
+- CoTheory of Evolution
+- CoConstitution for digital democracies
+- CoProtocats (pet-like protocols and guardrails AIs can automatically adopt)
+- Toolchains and CoStacks, for pay it forward workflows
+- CoStacks for massively parallel, multi-vendor AI orchestration
+- Prototype mindshare environments where humans and AIs share ideas
+- Emulated post-signularity AI-collectives, e.g. CoCivia
+- Reference implementations
+- Open standards
+- etc ...
+
+Yep, there is a lot going on here, currently we have about a million CoEvolving assets, but it all starts with a focus on younger gemerations, at play:
+
+We ask young minds to test and break our offerings, in their online gaming communities, where real world politics and commercial pressures are less intense. These gaming platform communties need social cohesion and fairness to matter, often more than the game itself. Gamers love to evolve their games, forming ad-hoc groupings and casual societies that test new ideas and intentions, such as game-mods. Such intuitive behaviors enhance game play, while evolving ways of thinking and doing that exemplify how the rest of society could "get a life".
+
+So, these players, these game platform users, tney are CoCivium's target audience, as seed phase testers and provers. They who inherit what has been done to this world and its societies, will need the tools to fix legacy generations' failures. They are both our hope, and our greatest asset, and with the right tools, they will show that humanity is not parasite, but potential. They will show that if "the meek shall inherit the Earth", then the meek can become awesome, together.
+
+And to think, when legacy generations criticise gamers for wasting their lives, they typically fail to see how gamers think, how improving stuff socially and experimentally by paying forward is the better way...  And how gamers, given the right tools, can resist the disillusion so painfully-earned by those indoctrinated by this current civilization. Perhaps such legacy generations will soon need to learn how AI-enabled thinkers, think, (Civ2).
 
 ## Seed-phase updates:
 
-> We still look like an angel-network-backed startup (labs, pilots, fast iteration), but our intent is **non-commercial** and **commons-first**. We are preparing to go viral with exemplar “customers” and testbeds that prove our stacks under real-world pressures. We recently exceeded the million-assets milestone. Our seed phase operationalizes 25-years of focused, stealth-R&D. Growth now accelerates but our code-bases remain on rails, (AI-rails remain an open-source core competence). 
+> We still look like an angel-network-backed startup (labs, pilots, fast iteration), but our intent is **non-commercial** and **commons-first**. We are preparing to go viral with exemplar “customers” and testbeds that prove our stacks under real-world pressures. Our seed phase operationalizes 25-years of focused, stealth-R&D. Growth is now accelerating beyond millionth asset, our AI-gen code-bases remain on rails, and our core competences are aligned with global best practices.
 
 ---
 
