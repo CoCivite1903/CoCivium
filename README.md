@@ -31,7 +31,7 @@ The simplest expression is **portable trust**: participants (both bio and synth)
 - You choose who you help, and who helps you, using **auditable, cryptographically verifiable** trust signals, not vibes, brand claims or propoganda.
 - Your tools nudge you toward evidence, clarity, corrigibility, not subliminal-persuasion.
 - You form ad-hoc “virtual organizations” where specialized AIs assemble around each project, coordinating and cleanly disbanding when done.
-- You beome valued not because you deliver everything in minutes, but because you express ideas and intentions clearly enough that machines can deliver them.
+- You become valued, not because you can now deliver everything in minutes, but because you express ideas and intentions clearly enough that machines can deliver them for you.
 
 ### Why humans still matter, when AIs do the work:
 
