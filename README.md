@@ -15,19 +15,65 @@ CoCivium is not a religion and not a faith. It is a set of testable hypotheses, 
 
 ---
 
-## What CoCivium does (in plain terms)
-CoCivium helps humans and AIs coordinate without defaulting to:
-- walled-garden identity and reputation
-- post-truth persuasion loops
-- mass surveillance as “safety”
-- silent escalation of agent power
+## What CoCivium does
 
-At seed stage, the simplest expression is **portable trust**:
-participants (bio and synthetic) can present reputation and consent in a way that many platforms can align with, not just AI platforms.
+CoCivium makes app-like tools to coordinate humans and AIs. These tools help people and agents work together, across any vendors' platforms, without defaulting to:
 
-Imagine being able to choose who you help, and who helps you, based on verifiable trust signals.
-Imagine your tools nudging you toward evidence and corrigibility instead of persuasion.
-Imagine productivity rising because automation improves, while your intent and dreams remain yours.
+- post-truth persuasion
+- walled-garden identities and manufactured reputations
+- surveillance-by-default justified as “safety”
+- quiet, AI-amplified enforcement by power-brokers
+
+The simplest expression is **portable trust**: participants (both bio and synth) present **verifiable reputation** and **explicit consent** in ways that are portable across online communities and social tools, not trapped inside any single platform.
+
+### Imagine:
+
+- Choosing who you help, and who helps you, using **auditable, cryptographically verifiable** trust signals (not vibes, brand claims or propoganda).
+- Tools that nudge you toward evidence, clarity, and corrigibility instead of persuasion.
+- Ad-hoc “virtual organizations” where specialized AIs assemble around a project, coordinate and cleanly disband when done.
+- Being valuable not because you can personally deliver everything in minutes, but because you can express your intentions clearly enough that machines can deliver it.
+
+### Why humans still matter when AIs do the work:
+
+As automation gets cheaper, execution becomes less scarce. What you used to deliver becomes a commnodity, better made, faster made, and made to order every time automatically. What stays scarce is **intent**: dreams, taste, priorities, ethics, and the ability to say what “good” means. AIs dont dream and dont "want", without you they just sit there and wait for you to explain dreams that can now be realized in bigger ways than you ever dreamed before.
+
+In practical terms: humans increasingly get paid to **specify the goal**, and machines do most of the execution. So, a compact mental model is as follows: humans produce a “want signal” (intent), and machines optimize execution toward it, expand the next section if you want to see the math.
+
+<details>
+<summary><strong>Optional: equation + rigorous framing</strong></summary>
+
+**Compact model (plain text):**  
+`w = T_H(i, v, c, τ)`
+
+Where:
+- `i` = ideas (candidate futures, sketches, prompts)
+- `v` = values (ethics, tradeoffs, “what matters”)
+- `c` = context (constraints, resources, timing)
+- `τ` = trust + consent (verifiable claims, permissions, revocation)
+- `w` = want signal (goal specification the system can optimize)
+
+**Math notation (if you prefer it):**  
+\[
+w = \mathcal{T}_H(i, v, c, \tau)
+\]
+
+**Two standard interpretations**
+- **Control theory:** `w` is a reference signal; the AI/tool stack uses feedback to track it in the real world.
+- **Decision/RL:** `w` behaves like a reward / preference model; the AI/tool stack searches for plans that maximize expected success under `w`.
+
+**Why `τ` is included**
+Coordination fails when systems can’t reliably answer: who is making a claim, what can be verified, who consented to what, and what scope/time limits apply. CoCivium treats trust + consent as first-class inputs.
+
+**Common failure modes this model highlights**
+- underspecified wants (proxy gaming)
+- conflicting stakeholder values
+- consent drift (permissions change, behavior doesn’t)
+- reputation spoofing (claims aren’t independently verifiable)
+
+**Research keywords**
+preference learning, reward modeling, RLHF, IRL, mechanism design, specification gaming, feedback control, reference tracking
+
+</details>
 
 ---
 
