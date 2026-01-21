@@ -35,9 +35,13 @@ The simplest expression is **portable trust**: participants (both bio and synth)
 
 ### Why humans still matter when AIs do the work:
 
-As automation gets cheaper, execution becomes less scarce. What you used to deliver becomes a commnodity, better made, faster made, and made to order every time automatically. What stays scarce is **intent**: dreams, taste, priorities, ethics, and the ability to say what “good” means. AIs dont dream and dont "want", without you they just sit there and wait for you to explain dreams that can now be realized in bigger ways than you ever dreamed before.
+As automation gets cheaper, execution becomes less scarce. What you used to deliver becomes a "commodity", cheaper, better made, faster made, and made to fit individual use cases, every time, automatically. 
 
-In practical terms: humans increasingly get paid to **specify the goal**, and machines do most of the execution. So, a compact mental model is as follows: humans produce a “want signal” (intent), and machines optimize execution toward it, expand the next section if you want to see the math.
+What stays scarce is your **intent**: your ideas, taste, priorities, ethics and the ability to say what “good” means. AIs dont "dream" and dont "want", so without you they just sit there, waiting for you to explain your creativity, ideations that can now be realized in bigger ways than ever dreamed before.
+
+In practical terms: humans will increasingly get paid to **specify the goal**, and machines will do most of the execution for free. So, a compact mental model for your future career is as follows: **humans produce a “want signal” (intent), and machines optimize execution toward it**.  
+
+Please expand the next section to see how this works in more scientific terms.
 
 <details>
 <summary><strong>Optional: equation + rigorous framing</strong></summary>
