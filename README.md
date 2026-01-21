@@ -1,47 +1,49 @@
 # CoCivium — Trusted Together
 **Trust, consent, and coordination for the AI era.**
 
-The world is increasingly shaped by conflict, incentive games, and narrative manipulation. It can feel easier to disengage than to pull together anything lasting or good.
+The world is increasingly shaped by conflict, corruption and narrative manipulation, as emerging technologies make the rich and powerful more rich and powerful. To the rest of us, it can feel easier to disengage, rather than pull together anything lasting or good.
 
-CoCivium exists for people who still choose the opposite:
-- to treat truth as a thing you *earn* with evidence
-- to treat consent as root permission
-- to treat coordination as the main problem worth solving
+CoCivium exists for people who want a fairer world:
+- we treat truth as a thing you *earn*, with evidence
+- we treat consent as root permission, freely given
+- we thus treat coordination as the main problem worth solving
 
 > “This is the way: no coercion, no corruption, no crowns.
 > We think, therefore we are; therefore we are to think.”
 
-CoCivium is not a religion and not a faith. It is a set of testable hypotheses, protocols, and toolchains. If the claims stop being demonstrable in the wild, CoCivium should be treated as a failed hypothesis.
+CoCivium is neither Religion nor Faith. CoCivium is a set of testable hypotheses, protocols, and toolchains. If our claims stop being demonstrable in the wild, CoCivium should be treated as a failed attempt to provide equity for all.
 
 ---
 
 ## What CoCivium does
 
-CoCivium makes app-like tools to coordinate humans and AIs. These tools help people and agents work together, across any vendors' platforms, without defaulting to:
+CoCivium makes app-like tools to coordinate humans and AIs. These tools help people and their AI-agents work together, across any vendors' platforms, without defaulting to:
 
 - post-truth persuasion
-- walled-garden identities and manufactured reputations
-- surveillance-by-default justified as “safety”
+- walled-garden identities and false reputations
+- surveillance-by-default, justified as “safety”
 - quiet, AI-amplified enforcement by power-brokers
 
-The simplest expression is **portable trust**: participants (both bio and synth) present **verifiable reputation** and **explicit consent** in ways that are portable across online communities and social tools, not trapped inside any single platform.
+The simplest expression is **portable trust**: participants (both bio and synth) present **verifiable reputation** and **explicit consent** in ways that are portable across online communities and social tools, not trapped inside any single vendor's platform, (and even the vendors prefer this approach, if its trustable).
 
 ### Imagine:
 
-- Choosing who you help, and who helps you, using **auditable, cryptographically verifiable** trust signals (not vibes, brand claims or propoganda).
-- Tools that nudge you toward evidence, clarity, and corrigibility instead of persuasion.
-- Ad-hoc “virtual organizations” where specialized AIs assemble around a project, coordinate and cleanly disband when done.
-- Being valuable not because you can personally deliver everything in minutes, but because you can express your intentions clearly enough that machines can deliver it.
+- You choose who you help, and who helps you, using **auditable, cryptographically verifiable** trust signals, not vibes, brand claims or propoganda.
+- Your tools nudge you toward evidence, clarity, corrigibility, not subliminal-persuasion.
+- You form ad-hoc “virtual organizations” where specialized AIs assemble around each project, coordinating and cleanly disbanding when done.
+- You beome valued not because you deliver everything in minutes, but because you express ideas and intentions clearly enough that machines can deliver them.
 
-### Why humans still matter when AIs do the work:
+### Why humans still matter, when AIs do the work:
 
-As automation gets cheaper, execution becomes less scarce. What you used to deliver becomes a "commodity", cheaper, better made, faster made, and made to fit individual use cases, every time, automatically. 
+As automation gets cheaper, execution becomes less scarce and your deliverables become a "commodity", cheaper, better, faster, and made to fit individual use-cases, every time, automatically. 
 
-What stays scarce is your **intent**: your ideas, taste, priorities, ethics and the ability to say what “good” means. AIs dont "dream" and dont "want", so without you they just sit there, waiting for you to explain your creativity, ideations that can now be realized in bigger ways than ever dreamed before.
+What stays scarce is your **intent**: your ideas, taste, priorities, ethics, and the ability to say what “good” means. AIs dont "dream" and dont "want", so without you they just sit there, waiting for you to explain your creativity, ideations that can now be realized in ways you are now at greater liberty to dream of.
 
-In practical terms: humans will increasingly get paid to **specify the goal**, and machines will do most of the execution for free. So, a compact mental model for your future career is as follows: **humans produce a “want signal” (intent), and machines optimize execution toward it**.  
+In practical terms: humans ae now paid to **specify the goal**, while machines do most of the execution, typically for free. So, the mental model for your career is now as follows:
 
-Please expand the next section to see how this works in more scientific terms.
+**humans produce a “want signal” (intent), and machines optimize execution toward it**.  
+
+To understand all this in more scientific terms, please **expand** the following sections.
 
 <details>
 <summary><strong>Optional: equation + rigorous framing</strong></summary>
