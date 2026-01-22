@@ -1,17 +1,23 @@
 # CoCivium — Trusted Together
 **Trust, consent, and coordination for the AI era.**
 
-The world is increasingly shaped by conflict, corruption and narrative manipulation, as emerging technologies make the rich and powerful more rich and powerful. To the rest of us, it can feel easier to disengage, rather than pull together anything lasting or good.
+The world, increasingly shaped by conflict, corruption and narrative manipulation, feeds us biased truths, and as truth erodes, so do ethics, decency and democracy.
 
-CoCivium exists for people who want a fairer world:
-- we treat truth as a thing you *earn*, with evidence
-- we treat consent as root permission, freely given
-- we thus treat coordination as the main problem worth solving
+As truth erodes, even the wisest stuggle to retain independent perspectives. It may help to know the bias, to compensate, but there is so much being fed to us, and seeing the truth is getting harder for all of us. Those less skilled in critical thinking, often prefer to accept what they are told, unchallenged.
+
+Thus we become nations of post-truth extremists, following a tribe no matter how wrong the tribe gets. Meanwhile, the thinking-technologies invented in the last few years act like civilizational weapons of mass destruction. We are overwhelmed with their accellerating processes, their ability to influence what we believe, while the rich and powerful get more rich and powerful, leaving the rest of us feeling weaker by the day. 
+
+CoCivium exists for people who support equity for all. We believe these very recently invented technologies, like AI, offer a new social stability that has never before been possible: edge balanced by all of us, not core controlled by an elite few. Equity should not require you to be rich and powerful.
+
+So, to help fix the world:
+- we treat *truth* as a thing you *earn*, with *evidence*
+- we treat consent as root permission, freely given and easily retracted
+- we treat *coordination* as the main problem worth solving, with emerging technologies
 
 > “This is the way: no coercion, no corruption, no crowns.
 > We think, therefore we are; therefore we are to think.”
 
-CoCivium is neither Religion nor Faith. CoCivium is a set of testable hypotheses, protocols, and toolchains. If our claims stop being demonstrable in the wild, CoCivium should be treated as a failed attempt to provide equity for all.
+CoCivium is neither Religion nor Faith. CoCivium is a set of testable hypotheses, protocols, and tool-chains. If our claims stop being demonstrable, in the wild, CoCivium should be treated as a failed attempt to provide equity for all.
 
 ---
 
