@@ -64,25 +64,30 @@ Where:
 - `τ` = trust + consent (verifiable claims, permissions, revocation)
 - `w` = want signal (goal specification the system can optimize)
 
-**Math notation (if you prefer it):**  
+**Math notation (if you prefer it):**
+
 \[
 w = \mathcal{T}_H(i, v, c, \tau)
 \]
 
 **Two standard interpretations**
+
 - **Control theory:** `w` is a reference signal; the AI/tool stack uses feedback to track it in the real world.
 - **Decision/RL:** `w` behaves like a reward / preference model; the AI/tool stack searches for plans that maximize expected success under `w`.
 
 **Why `τ` is included**
+
 Coordination fails when systems can’t reliably answer: who is making a claim, what can be verified, who consented to what, and what scope/time limits apply. CoCivium treats trust + consent as first-class inputs.
 
 **Common failure modes this model highlights**
+
 - underspecified wants (proxy gaming)
 - conflicting stakeholder values
 - consent drift (permissions change, behavior doesn’t)
 - reputation spoofing (claims aren’t independently verifiable)
 
 **Research keywords**
+
 preference learning, reward modeling, RLHF, IRL, mechanism design, specification gaming, feedback control, reference tracking
 
 </details>
@@ -90,6 +95,7 @@ preference learning, reward modeling, RLHF, IRL, mechanism design, specification
 ---
 
 ## Non-negotiable principles
+
 1) **Consent is root permission** (opt-in, revocable)  
 2) **Accountability without mass surveillance**  
 3) **Truth-seeking over rhetorical dominance** (provenance + corrigibility)  
@@ -98,28 +104,8 @@ preference learning, reward modeling, RLHF, IRL, mechanism design, specification
 
 ---
 
-## Start here (Human+AI teams)
-### 1) Fetch the canonical bootstrap (CoBeacon)
-Follow only full URLs. Verify sidecar hashes when present.
-
-**Canonical CoBeacon (RAW):**
-- https://raw.githubusercontent.com/CoCivium/CoBusMirror/main/docs/COBEACON_LATEST.txt
-
-CoBeacon should point to “LATEST rails” (primer, registry, specs, contracts, index).  
-If it doesn’t, treat that as a breakage.
-
-### 2) Read CoBus Index every wave (coordination rail)
-CoBus Index is the shared mediation rail for parallel work.  
-If you change state (specs, pointers, policies, scripts, artifacts), write a CoBus note.
-
-### 3) Pick a lane
-- **Builder:** implement components and reference implementations  
-- **Steward:** improve governance, specs, audits, onboarding, threat models  
-- **Explorer:** run experiments, draft proposals, shape roadmaps  
-
----
-
 ## What we build
+
 1) **Consent-first protocols**  
 Opt-in, revocable, auditable scopes for data sharing, identity linkage, and agent actions.
 
@@ -138,6 +124,7 @@ Indexing that helps any AI understand the wider CoShare quickly, discover relate
 ---
 
 ## Highlighted assets (evergreen placeholders)
+
 These are *intentionally stable identifiers* until CoIndex resolves them to canonical URLs.
 
 - CoTheory of Civilization — `COINDEX_KEY=CoTheoryCivilization`
@@ -154,6 +141,7 @@ These are *intentionally stable identifiers* until CoIndex resolves them to cano
 ---
 
 ## Seed-phase focus (why gamers)
+
 We start where politics and enterprise pressure are lower: online gaming communities.
 
 Gamers already run real experiments in coordination:
@@ -167,6 +155,7 @@ Seed phase asks younger generations to test and break the ideas under real socia
 ---
 
 ## Repo norms (so we don’t rot from the inside out)
+
 ### Pointer hygiene
 Canonical rails must use:
 - **full URL** (preferred), or
@@ -186,7 +175,27 @@ Use CODEOWNERS so critical rails can’t be casually rewritten.
 
 ---
 
-## Contributing
+# START HERE (Human+AI teams)
+
+## 1) Fetch the canonical bootstrap (CoBeacon)
+Follow only full URLs. Verify sidecar hashes when present.
+
+**Canonical CoBeacon (RAW):**
+- https://raw.githubusercontent.com/CoCivium/CoBusMirror/main/docs/COBEACON_LATEST.txt
+
+CoBeacon should point to “LATEST rails” (primer, registry, specs, contracts, index).  
+If it doesn’t, treat that as a breakage.
+
+## 2) Read CoBus Index every wave (coordination rail)
+CoBus Index is the shared mediation rail for parallel work.  
+If you change state (specs, pointers, policies, scripts, artifacts), write a CoBus note.
+
+## 3) Pick a lane
+- **Builder:** implement components and reference implementations  
+- **Steward:** improve governance, specs, audits, onboarding, threat models  
+- **Explorer:** run experiments, draft proposals, shape roadmaps  
+
+## 4) Contributing
 Good first contributions:
 - improve onboarding clarity
 - add threat models + abuse cases
