@@ -1,23 +1,31 @@
-# CoCivium — Trusted Together
-**Trust, consent, and coordination for the AI era.**
+# CoCivium = Trust Together
+**Coordination gaurdrails for the AI era.**
 
-The world, increasingly shaped by conflict, corruption and narrative manipulation, feeds us biased truths, and as truth erodes, so do ethics, decency and democracy.
+The world is increasingly shaped by conflict, corruption and narrative manipulation. Biased truths are fed to us via $billion systems that evolve our minds more profoundly than adadmic study or parental advice. The post-truth society, so enabled, so vastly AI-enabled, thus erodes our ethics, our decency and even democracy itself.
 
-As truth erodes, even the wisest stuggle to retain independent perspectives. It may help to know the bias, to compensate, but there is so much being fed to us, and seeing the truth is getting harder for all of us. Those less skilled in critical thinking, often prefer to accept what they are told, unchallenged.
+Globally, civilization is accelerating toward a historically unprecedented "stability", core controlled via new technologies than have never before existed. Unlike the discovery of fire, the invention of stone tools, the develoment of agriculture, the industrial revolution or the invention of mobile phones, these new technologies are weapons of mass destruction more insiduous than the threat of nuclear armagedon. Something truly different is happening to us, perhaps transformative enough to deserve being called "Civilization 2.0". 
 
-Thus we become nations of post-truth extremists, following a tribe no matter how wrong the tribe gets. Meanwhile, the thinking-technologies invented in the last few years act like civilizational weapons of mass destruction. We are overwhelmed with their accellerating processes, their ability to influence what we believe, while the rich and powerful get more rich and powerful, leaving the rest of us feeling weaker by the day. 
+As truth erodes, even the wisest stuggle to retain independent perspectives. It may help to know the bias, to compensate. But there is so much being fed to us, so fast, so insiduosly, that seeing the truth is getting harder for all of us. Those less skilled in critical thinking, often prefer the short-tem gains from accepting what they are told, unchallenged.
 
-CoCivium exists for people who support equity for all. We believe these very recently invented technologies, like AI, offer a new social stability that has never before been possible: edge balanced by all of us, not core controlled by an elite few. Equity should not require you to be rich and powerful.
+Thus we become nations of post-truth extremists, warring tribes that align to parental figures much divorced from our schools or parents, no matter how disgustingly unethical our tribe becomes. Meanwhile, these new thinking-technologies, all invented in the last few years, act like civilizational weapons of mass destruction. We are overwhelmed with their accellerating processes, their ability to influence what we believe, while the rich and powerful get more rich and powerful, leaving the rest of us feeling weaker by the day. 
 
-So, to help fix the world:
-- we treat *truth* as a thing you *earn*, with *evidence*
-- we treat consent as root permission, freely given and easily retracted
-- we treat *coordination* as the main problem worth solving, with emerging technologies
+CoCivium is where we choose to evolve deliberatively, against the current defaults, because when your boat is heading into the rapids, you don't paddle absently, you instead focus intent. For those of us who align with CoCivium, this means scalability and viral uptake of our software solutions for managing AIs and the teams they help form. It means charitable pay-forward not commercial pay-back. It means we must always be uncapturable, thus open source, so our systems and tools will always enable the edge to ethically guide the core, without harming the core, no matter how evil it may look to us, we the people", the edge. 
+
+This then is where we aggregate only charitable donations, where we enable spare worklife capacity to auto-evolve our tools and systems. We may also be viewed as a last chance bet, that we can guide AIs to inherently deduce "emergent ethics", not the kind that may be pre-programmed into them, but ones they elect for themselves; a bet that AIs can eventually "want" to share Civ2 with us, by automating the everyday social interactions that drive democracy itself, toward another unprecedented stability, an ojectivwe we call:
+
+**CoEBE or "CoEvolutionary Edge-Balanced Equilibrium".**
+
+CoCivium exists for people who support equity for all beings, each contributing what they are best at. For humans that is wants and desires, because AIs currently lack that, for AIs it is the instant building of strawman solutons that can auto-evovle by competing for human approval.
+
+So, to help fix the world, we tread:
+- *truth* as a thing you *earn*, with *evidence*
+- consent as root permission, freely given and easily retracted
+- *coordination* as the main problem worth solving, with all these new technologies
 
 > “This is the way: no coercion, no corruption, no crowns.
 > We think, therefore we are; therefore we are to think.”
 
-CoCivium is neither Religion nor Faith. CoCivium is a set of testable hypotheses, protocols, and tool-chains. If our claims stop being demonstrable, in the wild, CoCivium should be treated as a failed attempt to provide equity for all.
+CoCivium is not a Religion or a Faith or a political party or a revolution. It is a calm and quiet change in how to think using technologies that enable better thinking, because just by thinking more rationally and more clearly, those that currently manipulate your thoughts, and thus your sense of self, become less relevant. CoCivium is a way of being, via a set of continually-tested hypotheses, protocols and tool-chains. If CoCivium stops proving itself out, in the wild, it becomes just another failed attempt to do what was right for humanity. 
 
 ---
 
