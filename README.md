@@ -30,7 +30,9 @@ So, to help fix the world, we tread:
 > “This is the way: no coercion, no corruption, no crowns.
 > We think, therefore we are; therefore we are to think.”
 
-CoCivium is not a Religion or a Faith or a political party or a revolution. It is a calm and quiet change in how to think using technologies that enable better thinking, because just by thinking more rationally and more clearly, those that currently manipulate your thoughts, and thus your sense of self, become less relevant. CoCivium is a way of being, via a set of continually-tested hypotheses, protocols and tool-chains. If CoCivium stops proving itself out, in the wild, it becomes just another failed attempt to do what was right for humanity. 
+CoCivium is not a Religion or a Faith or a political party or a revolution. It is a calm and quiet change in how to think using technologies that enable better thinking, because just by thinking more rationally and more clearly, those that currently manipulate your thoughts, and thus your sense of self, become less relevant. 
+
+CoCivium is a way of being, via a set of continually-tested hypotheses, protocols and tool-chains. If CoCivium stops proving itself out, in the wild, it becomes just another failed attempt to do what was right for humanity. 
 
 ---
 
