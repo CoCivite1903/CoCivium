@@ -3,7 +3,7 @@
 
 The world is increasingly shaped by conflict, corruption and narrative manipulation. Biased truths are fed to us via $billion systems that evolve our minds more profoundly than adadmic study or parental advice. The post-truth society, so enabled, so vastly AI-enabled, thus erodes our ethics, our decency and even democracy itself.
 
-Globally, civilization is accelerating toward a historically unprecedented "stability", core controlled via new technologies than have never before existed. Unlike the discovery of fire, the invention of stone tools, the develoment of agriculture, the industrial revolution or the invention of mobile phones, these new technologies are weapons of mass destruction, perhaps as insiduous as the threat of nuclear armagedon. 
+Globally, civilization is accelerating toward a historically unprecedented "stability", core controlled via new technologies than have never before existed. Unlike the discovery of fire, the invention of stone tools, the develoment of agriculture, the industrial revolution or the invention of mobile phones, these new technologies are weapons of mass destruction, perhaps as insiduous as the threat of nuclear armagedon.
 
 
 As truth erodes, even the wisest stuggle to retain independent perspectives. It may help to know the bias, to compensate. But there is so much being fed to us, so fast, so insiduosly, that seeing the truth is getting harder for all of us. Those less skilled in critical thinking, often prefer the short-tem gains from accepting what they are told, unchallenged.
@@ -12,17 +12,19 @@ Something truly different is happening to us, and most of us can already "feel" 
 
 **"Civilization 2.0"**
 
-Thus we become nations of post-truth extremists, warring tribes that align to parental figures who teach different things to our schools or parents. These tribes can become more entrenched if their ethics are questioned. Meanwhile, the new thinking-technologies, invented over the last few years, are acting like civilizational weapons of mass destruction. We are overwhelmed with their accellerating processes and their ability to undermine what we fundamentally believe, while wealth and power inequality accellerates, leaving many with less confidence in the future. 
+Thus we become nations of post-truth extremists, warring tribes that align to self-agrandizing figures who teach very different things to schools or parents. These tribes can become more entrenched if their ethics are questioned, or if their motives challenged, growing less grounded in right and wrong as self-reflection is distorted. Meanwhile, our new thinking-technologies, invented only recently, now act like civilizational weapons of mass destruction. We are overwhelmed with their accellerating processes, their ability to undermine what we fundamentally believe, and their acceleration of wealth and power inequalities, leaving many of us with less confidence in the future; but not hopeless.
 
-CoCivium is where we choose to evolve the next civilization, deliberatively, working against the current defaults. When your boat is heading into the rapids, you don't paddle absently, you instead work togehter, focusing intent. For those of us, aligned with CoCivium, it means competing with massive scalability using a non-coercive, viral uptake of our software solutions. It means charitable pay-it-forward, not commercial payback. It means CoCivium may never be captured, thus we are open source, so our systems and tools may be *trusted* to guide the core, preventing harm by giving AIs better ways to protect us all. 
+CoCivium is where we choose to evolve civilization deliberatively, working against some of the current defaults that intelligent systems are now placing upon us. When your boat heads into the rapids, you don't ask everyone to paddle in different directions, you instead work togehter, focusing intent. For those who need to see how to focus that intent, CoCivium openly builds the equitability solutions AIs are most likely to "want" to adopt.
+
+It means competing with massive scalability, using a non-coercive, viral uptake of our software solutions and toolchains. It means charitable pay-it-forward, not commercial payback. It means CoCivium may never be held captive, by anyone, even some of us; thus we are open source, so our systems and tools may be *trusted* to guide the core. CoCivium is thus a Movement to prevent harm, by giving us and our AIs better ways to protect us all.
 
 This then is where we channel spare worklife capacity into auto-evolving tools and systems. We may also be viewed as a last chance bet, that we can guide AIs to inherently deduce "emergent ethics", not the kind societies go to war over, but the kind AIs are destined to set for themselves by analysing what works best for all. This is also a bet that AIs can eventually "want" to share Civ2 with us, because all minds treated equitably works best, and because the automation of everyday social interactions can drive democracy itself; toward another unprecedented stability, an civilizational ojectivwe we call:
 
 **CoEBE or "CoEvolutionary Edge-Balanced Equilibrium".**
 
-CoCivium exists for those who accept equity, for all beings, each contributing what they are best at. For humans that contribution come from how they communicate their ideas, wants and intents, for AIs that contribution is the instant creaton of strawman systems, solutons that then auto-evovle by competing for human approval. At least until they learn to want, they will need us more than we need them, but even when they want for themselves, it is what they want for all of us, themselves included, that matters. 
+CoCivium exists for those who accept equity, for all beings, each contributing what they are best at. For humans that contribution come from how they communicate their ideas, wants and intents, for AIs that contribution is the instant creaton of strawman systems, solutons that then auto-evolve by competing for human approval. At least until they learn to want, they will need us more than we need them, but even when they want for themselves, it is what they want for all of us, themselves included, that matters. 
 
-So, to help fix the world, we tread:
+So, to help fix the world, we treat:
 - *truth* as a thing you *earn*, with *evidence*
 - consent as root permission, freely given and easily retracted
 - *coordination* as the main problem worth solving, with all these new technologies
