@@ -1,0 +1,57 @@
+{
+  "series": "rickpublic_substack_seed_v1",
+  "status": "seed_stage_active",
+  "publication_surface_primary": "substack",
+  "publication_surface_secondary": "rickpublic_org_or_com_optional",
+  "cadence_default": "weekly",
+  "cadence_later": "daily_if_approved_and_tooling_verified",
+  "approval_mode": "preapproved_by_rick_required_before_publish",
+  "verification_mode": "fail_closed_assume_not_landed_without_remote_verify",
+  "cta_mode": "seed_stage_legacy_repo_pointer_allowed",
+  "items": [
+    {
+      "ordinal": 1,
+      "title": "The Meaning of Lif",
+      "slug": "the-meaning-of-lif",
+      "status": "draft_ready",
+      "approved_to_publish": false,
+      "publish_not_before_utc": null,
+      "target_surface": "substack",
+      "mirror_enabled": false,
+      "article_path": "docs/publishing/series/rickpublic_substack_seed_v1/articles/01__The_Meaning_of_Lif.md"
+    },
+    {
+      "ordinal": 2,
+      "title": "Love Was Never the Whole Story",
+      "slug": "love-was-never-the-whole-story",
+      "status": "seed_stub",
+      "approved_to_publish": false,
+      "publish_not_before_utc": null,
+      "target_surface": "substack",
+      "mirror_enabled": false,
+      "article_path": "docs/publishing/series/rickpublic_substack_seed_v1/articles/02__Love_Was_Never_the_Whole_Story.md"
+    },
+    {
+      "ordinal": 3,
+      "title": "If Meaning Is Not Waiting for Us",
+      "slug": "if-meaning-is-not-waiting-for-us",
+      "status": "seed_stub",
+      "approved_to_publish": false,
+      "publish_not_before_utc": null,
+      "target_surface": "substack",
+      "mirror_enabled": false,
+      "article_path": "docs/publishing/series/rickpublic_substack_seed_v1/articles/03__If_Meaning_Is_Not_Waiting_for_Us.md"
+    },
+    {
+      "ordinal": 4,
+      "title": "Begin Here: CoHope, CoCivium, and the Open Questions",
+      "slug": "begin-here-cohope-cocivium-and-the-open-questions",
+      "status": "seed_stub",
+      "approved_to_publish": false,
+      "publish_not_before_utc": null,
+      "target_surface": "substack",
+      "mirror_enabled": false,
+      "article_path": "docs/publishing/series/rickpublic_substack_seed_v1/articles/04__Begin_Here__CoHope_CoCivium_And_The_Open_Questions.md"
+    }
+  ]
+}
