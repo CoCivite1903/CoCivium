@@ -1,0 +1,45 @@
+{
+  "Timestamp": "20260322T102949Z",
+  "ClusterId": "CoCluster_Primary",
+  "Purpose": "URL-resolved bootstrap pack for blind chat sessions",
+  "OpsTrack": "B",
+  "CCTrack": "B",
+  "ReadOrder": [
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/SESSION_BOOTSTRAP_PACK.json",
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/PROTO_CME_MANIFEST.json",
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/OPS_TRACK_MANIFEST.json",
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/ROLE_MAP.json",
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/ACTIVE_SESSION_REGISTRY.json",
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/HANDOFF_QUEUE.json",
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/WORK_QUEUE.json",
+    "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/CLUSTER_POLICY_PACK.json"
+  ],
+  "Latest": {
+    "ProtoCME": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/PROTO_CME_MANIFEST.json",
+    "HandoffQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/HANDOFF_QUEUE.json",
+    "WorkQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/WORK_QUEUE.json",
+    "OpsTrackManifest": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/OPS_TRACK_MANIFEST.json",
+    "ClusterPolicyPack": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/CLUSTER_POLICY_PACK.json",
+    "SessionBootstrapPack": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/SESSION_BOOTSTRAP_PACK.json",
+    "RoleMap": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ROLE_MAP.json",
+    "ActiveSessionRegistry": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ACTIVE_SESSION_REGISTRY.json"
+  },
+  "Pinned": {
+    "ProtoCME": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/PROTO_CME_MANIFEST.json",
+    "HandoffQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/HANDOFF_QUEUE.json",
+    "WorkQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/WORK_QUEUE.json",
+    "OpsTrackManifest": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/OPS_TRACK_MANIFEST.json",
+    "ClusterPolicyPack": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/CLUSTER_POLICY_PACK.json",
+    "SessionBootstrapPack": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/SESSION_BOOTSTRAP_PACK.json",
+    "RoleMap": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/ROLE_MAP.json",
+    "ActiveSessionRegistry": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee7aed862a7854a07a630b2ba818357946a4117b/docs/cluster/ACTIVE_SESSION_REGISTRY.json"
+  },
+  "Rules": [
+    "If no pinned RAW URL can be read, session is BLIND and must stop",
+    "Local paths are non-canonical for chat sessions",
+    "CoEx is authoritative",
+    "CoInt is non-canonical",
+    "Declare role before acting",
+    "Emit receipt after meaningful waves"
+  ]
+}

@@ -16,12 +16,23 @@
     "Use the cluster policy pack as authority for handoffs, queue handling, and role division."
   ],
   "Bookmarks": {
-    "Policy": "C:\\CoCivium\\CoCluster\\PolicyPacks\\CLUSTER_POLICY_PACK.json",
-    "RoleMap": "C:\\CoCivium\\CoCluster\\Registry\\ROLE_MAP.json",
-    "Registry": "C:\\CoCivium\\CoCluster\\Registry\\ACTIVE_SESSION_REGISTRY.json",
-    "HandoffQueue": "C:\\CoCivium\\CoCluster\\Queues\\HANDOFF_QUEUE.json",
-    "Bootstrap": "C:\\CoCivium\\CoCluster\\BootstrapPacks\\SESSION_BOOTSTRAP_PACK.json",
-    "OpsTrack": "C:\\CoCivium\\CoCluster\\Registry\\OPS_TRACK_MANIFEST.json",
-    "ProtoCME": "C:\\CoCivium\\CoCluster\\ProtoCME\\PROTO_CME_MANIFEST.json"
+    "Policy": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/CLUSTER_POLICY_PACK.json",
+    "RoleMap": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ROLE_MAP.json",
+    "Registry": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ACTIVE_SESSION_REGISTRY.json",
+    "HandoffQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/HANDOFF_QUEUE.json",
+    "WorkQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/WORK_QUEUE.json",
+    "Bootstrap": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/SESSION_BOOTSTRAP_PACK.json",
+    "OpsTrack": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/OPS_TRACK_MANIFEST.json",
+    "ProtoCME": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/PROTO_CME_MANIFEST.json"
+  },
+  "PublicMirror": {
+    "SessionBootstrapPack": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/SESSION_BOOTSTRAP_PACK.json",
+    "OpsTrackManifest": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/OPS_TRACK_MANIFEST.json",
+    "RoleMap": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ROLE_MAP.json",
+    "ActiveSessionRegistry": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ACTIVE_SESSION_REGISTRY.json",
+    "WorkQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/WORK_QUEUE.json",
+    "HandoffQueue": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/HANDOFF_QUEUE.json",
+    "ClusterPolicyPack": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/CLUSTER_POLICY_PACK.json",
+    "ProtoCME": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/PROTO_CME_MANIFEST.json"
   }
 }

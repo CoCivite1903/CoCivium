@@ -1,0 +1,10 @@
+OPS_TRACK=B
+CC_TRACK=B
+SESSION_BOOTSTRAP_PACK=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/SESSION_BOOTSTRAP_PACK.json
+PROTO_CME=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/PROTO_CME_MANIFEST.json
+POLICY=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/CLUSTER_POLICY_PACK.json
+OPS_TRACK_MANIFEST=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/OPS_TRACK_MANIFEST.json
+REGISTRY=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ACTIVE_SESSION_REGISTRY.json
+ROLE_MAP=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ROLE_MAP.json
+HANDOFF_QUEUE=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/HANDOFF_QUEUE.json
+WORK_QUEUE=https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/WORK_QUEUE.json

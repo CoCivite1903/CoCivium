@@ -1,0 +1,20 @@
+<# COLIF_BOOTSTRAP_V2
+OPS_TRACK=B
+CC_TRACK=B
+RESOLVE:
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/BOOTSTRAP_LINK_PACK_LATEST.json
+INSTRUCTIONS:
+1) Ignore prior in-session assumptions that are not externally referenced
+2) Load bootstrap pack from RESOLVE URL
+3) Bind to OPS_TRACK only
+4) Declare role
+5) Read queues
+6) Emit receipt before continuing
+RULES:
+- CoEx is authoritative
+- CoInt is non-canonical
+- Only OPS_TRACK is active
+- Session is blind until URL resolution succeeds
+STATE:
+REHYDRATE_AND_CONTINUE
+#>
