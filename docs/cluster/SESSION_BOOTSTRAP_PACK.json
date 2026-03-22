@@ -1,0 +1,27 @@
+{
+  "Timestamp": "20260322T045920Z",
+  "ClusterId": "CoCluster_Primary",
+  "StartSequence": [
+    "Read SESSION_BOOTSTRAP_PACK",
+    "Resolve PROTO_CME_MANIFEST",
+    "Resolve OPS_TRACK_MANIFEST",
+    "Declare role",
+    "Register session",
+    "Read relevant queue entries",
+    "Emit first receipt"
+  ],
+  "ManualBootstrapPrompts": [
+    "Read the current ProtoCME, OpsTrack manifest, RoleMap, and HandoffQueue. Declare your role, restate only externalized mission state, and ignore unaudited in-session residue.",
+    "Bind this session to the active ops track only. Treat CoInt as non-authoritative. Emit a receipt after each meaningful wave.",
+    "Use the cluster policy pack as authority for handoffs, queue handling, and role division."
+  ],
+  "Bookmarks": {
+    "Policy": "C:\\CoCivium\\CoCluster\\PolicyPacks\\CLUSTER_POLICY_PACK.json",
+    "RoleMap": "C:\\CoCivium\\CoCluster\\Registry\\ROLE_MAP.json",
+    "Registry": "C:\\CoCivium\\CoCluster\\Registry\\ACTIVE_SESSION_REGISTRY.json",
+    "HandoffQueue": "C:\\CoCivium\\CoCluster\\Queues\\HANDOFF_QUEUE.json",
+    "Bootstrap": "C:\\CoCivium\\CoCluster\\BootstrapPacks\\SESSION_BOOTSTRAP_PACK.json",
+    "OpsTrack": "C:\\CoCivium\\CoCluster\\Registry\\OPS_TRACK_MANIFEST.json",
+    "ProtoCME": "C:\\CoCivium\\CoCluster\\ProtoCME\\PROTO_CME_MANIFEST.json"
+  }
+}

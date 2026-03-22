@@ -1,0 +1,22 @@
+{
+  "Timestamp": "20260322T045920Z",
+  "ClusterId": "CoCluster_Primary",
+  "Policies": [
+    "ImmediateCoEx",
+    "NoMissionCriticalStateOnlyInSession",
+    "CoPongOnlyIfBackedByRealCoEx",
+    "AllMeaningfulWavesEmitMachineReadableArtifact",
+    "HumanReadableReceiptOptionalButPreferred",
+    "SessionBootstrapMustResolveProtoCME",
+    "RoleMustBeDeclared",
+    "QueueMustBeExplicit",
+    "NoCrownSourceAgnosticFederation",
+    "AccountAgnosticWhereParityExists"
+  ],
+  "Enforcement": {
+    "SessionStart": "SessionLabel then CoNod then BootstrapPack resolution",
+    "SessionDrift": "Re-resolve ProtoCME",
+    "MissingCoEx": "Treat as degradable",
+    "SessionHandoff": "Receipt plus queue entry plus target role"
+  }
+}

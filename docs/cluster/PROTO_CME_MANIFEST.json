@@ -1,0 +1,49 @@
+{
+  "ClusterId": "CoCluster_Primary",
+  "Timestamp": "20260322T045920Z",
+  "OpsTrack": "B",
+  "CCTrack": "B",
+  "Canon": {
+    "Broadcast": "https://raw.githubusercontent.com/CoCivium/CoBusMirror/598dc03178e78e190eae91f47337b01da3bc2e01/docs/COBUS_LITE/broadcast/BROADCAST__LATEST__20260204T160027Z.txt",
+    "CoBeacon": "https://raw.githubusercontent.com/CoCivium/CoBusMirror/5dd6352cf3da72ec5dc0a3b23947a61a95648b7f/docs/COBEACON_LATEST.txt",
+    "CoLexSeed": "https://raw.githubusercontent.com/CoCivium/CoBusMirror/main/docs/COBUS_LITE/entries/2026-03-21/20260321T072216Z__CoIndex_vNext__CANON_SEED_v0.1.md"
+  },
+  "Graph": {
+    "CoPolicyGraph": "externalized",
+    "CoKnowledgeGraph": "externalized",
+    "ProtoCME": "authoritative",
+    "CoOperationalGraph": "externalized",
+    "SessionMemory": "non_authoritative"
+  },
+  "Rules": [
+    "CoExFirst",
+    "CoIntIsNonCanonical",
+    "CCPointsOnlyToOpsTrack",
+    "EveryWaveEmitsReceipt",
+    "SessionLabelThenCoNodThenResolveExternalState",
+    "ManualBootstrapPackAvailable",
+    "OneOpsTrackOnly",
+    "RoleDivisionRequired",
+    "GracePeriodLossMustNotMatter"
+  ],
+  "Roles": [
+    "Prime",
+    "Ops",
+    "Builder",
+    "Miner",
+    "Auditor",
+    "Watcher",
+    "Handoff",
+    "Bootstrap"
+  ],
+  "Queues": {
+    "HandoffQueue": "C:\\CoCivium\\CoCluster\\Queues\\HANDOFF_QUEUE.json",
+    "WorkQueue": "C:\\CoCivium\\CoCluster\\Queues\\WORK_QUEUE.json",
+    "AlertQueue": "C:\\CoCivium\\CoCluster\\Queues\\ALERT_QUEUE.json"
+  },
+  "Registry": {
+    "OpsTrack": "C:\\CoCivium\\CoCluster\\Registry\\OPS_TRACK_MANIFEST.json",
+    "RoleMap": "C:\\CoCivium\\CoCluster\\Registry\\ROLE_MAP.json",
+    "ActiveSessions": "C:\\CoCivium\\CoCluster\\Registry\\ACTIVE_SESSION_REGISTRY.json"
+  }
+}

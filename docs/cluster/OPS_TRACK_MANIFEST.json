@@ -1,0 +1,18 @@
+{
+  "Timestamp": "20260322T045920Z",
+  "OpsTrack": "B",
+  "CCShouldPointOnlyTo": "B",
+  "CandidateTracks": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "ActiveTrack": "B",
+  "ReferenceTrack": "A",
+  "DarkTracks": [
+    "C",
+    "D"
+  ],
+  "Rule": "Only one ops candidate visible in CC at a time"
+}

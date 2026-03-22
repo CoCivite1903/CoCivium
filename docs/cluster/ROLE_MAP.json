@@ -1,0 +1,44 @@
+{
+  "Timestamp": "20260322T045920Z",
+  "Roles": {
+    "Watcher": [
+      "alert",
+      "summarize",
+      "observe"
+    ],
+    "Builder": [
+      "implement",
+      "wire",
+      "refactor"
+    ],
+    "Handoff": [
+      "package",
+      "route",
+      "receipt"
+    ],
+    "Miner": [
+      "externalize_old_value",
+      "re-harvest_with_new_methods"
+    ],
+    "Auditor": [
+      "check parity",
+      "check drift",
+      "check receipts"
+    ],
+    "Ops": [
+      "operate_active_track",
+      "watch_health",
+      "trigger_receipts"
+    ],
+    "Prime": [
+      "orchestrate",
+      "prioritize",
+      "promote"
+    ],
+    "Bootstrap": [
+      "start sessions",
+      "align sessions",
+      "repair drift"
+    ]
+  }
+}

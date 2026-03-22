@@ -1,0 +1,56 @@
+{
+  "utc": "20260322T102415Z",
+  "owner": "CoCivite1903",
+  "repo": "CoCivium",
+  "branch": "main",
+  "copied": [
+    {
+      "source": "C:\\CoCivium\\CoCluster\\BootstrapPacks\\SESSION_BOOTSTRAP_PACK.json",
+      "repo_path": "docs/cluster/SESSION_BOOTSTRAP_PACK.json",
+      "sha256": "3A31FFC9F86F7BC8F6043E36B7B660D0A926D5A56C7EF2B34922E67E4B590D5C",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/SESSION_BOOTSTRAP_PACK.json"
+    },
+    {
+      "source": "C:\\CoCivium\\CoCluster\\Registry\\OPS_TRACK_MANIFEST.json",
+      "repo_path": "docs/cluster/OPS_TRACK_MANIFEST.json",
+      "sha256": "E20536C66D9700E06E1E960ABD3433A7FF953ACB77AF1ACD64FBC79CFCC58D4A",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/OPS_TRACK_MANIFEST.json"
+    },
+    {
+      "source": "C:\\CoCivium\\CoCluster\\Registry\\ROLE_MAP.json",
+      "repo_path": "docs/cluster/ROLE_MAP.json",
+      "sha256": "359526C7C6E4CA368B58758C5A45D499760A3F8E8DC73871AFF42BCCC2AD7036",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ROLE_MAP.json"
+    },
+    {
+      "source": "C:\\CoCivium\\CoCluster\\Registry\\ACTIVE_SESSION_REGISTRY.json",
+      "repo_path": "docs/cluster/ACTIVE_SESSION_REGISTRY.json",
+      "sha256": "99C4828CBC827E2FF5A699302C5208365FB3731F5DB71B89CC7B961B7A779BC5",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/ACTIVE_SESSION_REGISTRY.json"
+    },
+    {
+      "source": "C:\\CoCivium\\CoCluster\\Queues\\WORK_QUEUE.json",
+      "repo_path": "docs/cluster/WORK_QUEUE.json",
+      "sha256": "43632B07B81C771518E08658809F1FDC34D13FF2CE53C903269B2628B4C733BB",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/WORK_QUEUE.json"
+    },
+    {
+      "source": "C:\\CoCivium\\CoCluster\\Queues\\HANDOFF_QUEUE.json",
+      "repo_path": "docs/cluster/HANDOFF_QUEUE.json",
+      "sha256": "43632B07B81C771518E08658809F1FDC34D13FF2CE53C903269B2628B4C733BB",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/HANDOFF_QUEUE.json"
+    },
+    {
+      "source": "C:\\CoCivium\\CoCluster\\PolicyPacks\\CLUSTER_POLICY_PACK.json",
+      "repo_path": "docs/cluster/CLUSTER_POLICY_PACK.json",
+      "sha256": "B95BCD5A5BB82C0001448C79770CA83FA24268B89F6B84C24633F77C9ED3E69C",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/CLUSTER_POLICY_PACK.json"
+    },
+    {
+      "source": "C:\\CoCivium\\CoCluster\\ProtoCME\\PROTO_CME_MANIFEST.json",
+      "repo_path": "docs/cluster/PROTO_CME_MANIFEST.json",
+      "sha256": "8758EA57EC4A039AC7477E739AC106B3DBBE9C9432453A7AC143A4642A08761E",
+      "raw_url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/PROTO_CME_MANIFEST.json"
+    }
+  ]
+}
