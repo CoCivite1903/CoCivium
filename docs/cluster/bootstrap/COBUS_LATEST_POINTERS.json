@@ -1,23 +1,22 @@
 {
-  "TITLE": "Co~ GRAPH_UPGRADE_BATCH",
-  "id": "COBUS_LATEST_POINTERS",
-  "utc": "20260324T173010Z",
-  "latest": {
-    "graph_index": {
-      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/2a02a45a3b8ee2d191f5d0b59ee8b8384f6d26cf/docs/cluster/bootstrap/COGRAPH_INDEX_LATEST.json"
-    },
-    "contract": {
-      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/bootstrap/COCONTRACTREALITY_LATEST.json"
-    },
-    "drain_receipt": {
-      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json"
-    },
-    "policy": {
-      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt"
-    },
-    "drain_packet": {
-      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/3f4c12e06666f16cea5b67c79316d5c663defd7c/docs/cluster/recovery/DRAIN_PUBLIC_CANDIDATES_TOP20__LATEST.json"
-    }
-  },
-  "rule": "Fetch pointer -> contract -> graph; operate from graph traversal only"
+  "title": "Co~ POINTER_UPDATE_BATCH",
+  "utc": "20260324T195543Z",
+  "temp_bus_root": "https://github.com/CoCivite1903/CoCivium",
+  "latest_bootstrap": "docs/cluster/bootstrap/COPRE_REBIND_LATEST.txt",
+  "latest_policy": [
+    "docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
+    "docs/cluster/tools/COSTACKS_ACTION_DEFAULT_POLICY_LATEST.txt",
+    "docs/cluster/tools/COPACK_COMPRESSED_STAGING_POLICY_LATEST.txt",
+    "docs/cluster/tools/COSTACKS_RUNNER_HELPER_POLICY_LATEST.txt",
+    "docs/cluster/tools/FOUNDATIONAL_SELF_CORRECTION_RAIL_LATEST.txt"
+  ],
+  "latest_receipt": "docs/cluster/receipts/FOUNDATIONAL_SELF_CORRECTION_RAIL_RECEIPT__LATEST.json",
+  "latest_handoff": "docs/cluster/handoffs/GROUPBUILD_ONRAMP_QUEUE__LATEST.txt",
+  "rules": [
+    "read pointer first",
+    "tiny artifact per wave",
+    "receipt required",
+    "CoEx default",
+    "no bulk zip via contents API"
+  ]
 }
