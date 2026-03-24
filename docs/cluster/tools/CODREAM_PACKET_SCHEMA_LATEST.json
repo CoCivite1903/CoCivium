@@ -1,0 +1,14 @@
+{
+  "id": "CODREAM_PACKET_SCHEMA",
+  "utc": "20260324T202013Z",
+  "fields": [
+    "dream_id",
+    "hypothesis",
+    "copaths",
+    "uncertainty",
+    "supporting_coreal",
+    "conflicting_coreal",
+    "promotable"
+  ],
+  "rule": "non-canonical speculative packet; never directly authoritative"
+}
