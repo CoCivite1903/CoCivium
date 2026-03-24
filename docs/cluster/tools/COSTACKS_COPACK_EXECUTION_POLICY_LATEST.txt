@@ -1,0 +1,8 @@
+TITLE=Co~ COGUARD_DRAGGABLE_CORE
+STATE=COPACK_EXECUTION_POLICY
+UTC=20260324T173958Z
+RULE=Sessions trigger CoPack; CoStacks executes
+RULE=Support massive parallel lanes with batch fan-in
+RULE=Emit counters + one receipt
+RULE=Allow loop: next CoPack pointer
+RULE=No large chat output
