@@ -1,0 +1,18 @@
+{
+  "state": "COBUSTEMP_ACTIVE",
+  "utc": "20260324T062210Z",
+  "session": "CoPrime_Sweepy260324",
+  "intent": "Declare temporary shared intake rail and stable path family",
+  "rule": "Only pushed + RAW-reachable + SHA256-matching artifacts count as verified CoEx",
+  "temp_bus": {
+    "repo": "https://github.com/CoCivite1903/CoCivium",
+    "branch": "main",
+    "paths": [
+      "docs/cluster/bootstrap/",
+      "docs/cluster/receipts/",
+      "docs/cluster/handoffs/",
+      "docs/cluster/tools/",
+      "docs/cluster/recovery/"
+    ]
+  }
+}
