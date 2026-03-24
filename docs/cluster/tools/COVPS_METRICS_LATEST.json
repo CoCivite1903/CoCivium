@@ -1,0 +1,11 @@
+{
+  "id": "COVPS_METRICS",
+  "utc": "20260324T183709Z",
+  "fields": [
+    "lanes_per_wave",
+    "artifacts_per_min",
+    "verified_ratio",
+    "fanin_latency",
+    "time_to_receipt"
+  ]
+}
