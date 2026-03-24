@@ -1,0 +1,76 @@
+{
+  "TITLE": "Co~ GRAPH_UPGRADE_BATCH",
+  "id": "COGRAPH_INDEX",
+  "utc": "20260324T173010Z",
+  "entry": {
+    "pointer": "COBUS_LATEST_POINTERS.json"
+  },
+  "nodes": [
+    {
+      "id": "policy_coex_only_default",
+      "type": "policy",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
+      "tags": [
+        "policy",
+        "bootstrap"
+      ]
+    },
+    {
+      "id": "drain_packet_top20",
+      "type": "packet",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/3f4c12e06666f16cea5b67c79316d5c663defd7c/docs/cluster/recovery/DRAIN_PUBLIC_CANDIDATES_TOP20__LATEST.json",
+      "tags": [
+        "drain",
+        "packet"
+      ]
+    },
+    {
+      "id": "drain_packet_top20_receipt",
+      "type": "receipt",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json",
+      "tags": [
+        "receipt",
+        "verify"
+      ]
+    },
+    {
+      "id": "cocontractreality",
+      "type": "contract",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/bootstrap/COCONTRACTREALITY_LATEST.json",
+      "tags": [
+        "contract",
+        "coreal"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "type": "DERIVES",
+      "from": "drain_packet_top20",
+      "to": "policy_coex_only_default",
+      "evidence_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json"
+    },
+    {
+      "type": "VERIFIES",
+      "from": "drain_packet_top20_receipt",
+      "to": "drain_packet_top20",
+      "evidence_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json"
+    },
+    {
+      "type": "GOVERNS",
+      "from": "cocontractreality",
+      "to": "policy_coex_only_default",
+      "evidence_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/bootstrap/COCONTRACTREALITY_LATEST.json"
+    }
+  ],
+  "dimensions": [
+    "time",
+    "version",
+    "sensitivity",
+    "role",
+    "rail",
+    "scope",
+    "confidence"
+  ],
+  "rule": "Graph is primary; bus/mesh are traversal patterns"
+}
