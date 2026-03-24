@@ -1,0 +1,7 @@
+{
+  "state": "COEX_VERIFIED",
+  "title": "Co~ EDGEGEN_PACKET_001",
+  "packet_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/4c3e7bb13682d3f76f8f07e7b9e6a51b5cc19f36/docs/cluster/tools/edgegen/COAUDIT_EDGEGEN_PACKET_001.json",
+  "packet_sha": "4c3e7bb13682d3f76f8f07e7b9e6a51b5cc19f36",
+  "next": "emit EDGEGEN_PACKET_002 via CoPack loop"
+}
