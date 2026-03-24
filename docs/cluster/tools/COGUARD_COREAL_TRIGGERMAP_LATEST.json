@@ -1,0 +1,26 @@
+{
+  "id": "COGUARD_COREAL_TRIGGERMAP",
+  "utc": "20260324T170145Z",
+  "triggers": [
+    {
+      "symptom": "acted_without_pointer",
+      "action": "FORCED_REBIND"
+    },
+    {
+      "symptom": "chat_primary",
+      "action": "COPRE_REBIND"
+    },
+    {
+      "symptom": "fake_proof",
+      "action": "COPRE_REBIND"
+    },
+    {
+      "symptom": "twilight_source",
+      "action": "COPRE_DRAIN"
+    },
+    {
+      "symptom": "healthy_lane",
+      "action": "COPRE_WORK"
+    }
+  ]
+}
