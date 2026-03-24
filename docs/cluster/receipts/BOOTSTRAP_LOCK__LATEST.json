@@ -1,0 +1,9 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260324T212301Z",
+  "session": "CoPrime",
+  "lock": "BOOTSTRAP",
+  "pointer": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/bootstrap/COBUS_LATEST_POINTERS.json",
+  "route": "A_PUBLIC_WRITABLE_REPO",
+  "next": "select_next_task_from_queue"
+}
