@@ -1,0 +1,7 @@
+TITLE=Co~ CODREAM_BATCH
+STATE=COAUDIT_PROMOTION_RULES
+UTC=20260324T202013Z
+RULE=Rank CoDream packets by coherence, evidence, and cross-session agreement
+RULE=Require at least one supporting CoReal anchor
+RULE=Reject or loop packets that fail reconciliation
+RULE=Promoted outputs must emit new CoReal artifact + receipt
