@@ -1,0 +1,46 @@
+{
+  "TITLE": "Co~ EDGEGEN_PACKET_001",
+  "id": "COAUDIT_EDGEGEN_PACKET_001",
+  "utc": "20260324T182455Z",
+  "source": "chatgpt_app_requests_surface",
+  "observed": [
+    "app_request_affordances",
+    "connector_capabilities",
+    "write_route_inconsistency",
+    "ui_confirmation_loops"
+  ],
+  "edge_parity_targets": [
+    {
+      "target": "raw_fetch",
+      "method": "Invoke-WebRequest",
+      "status": "achieved"
+    },
+    {
+      "target": "repo_write",
+      "method": "gh api PUT",
+      "status": "partial"
+    },
+    {
+      "target": "bundle_execution",
+      "method": "CoPack",
+      "status": "bootstrapped"
+    },
+    {
+      "target": "cross_session_comm",
+      "method": "CoBusTemp RAW",
+      "status": "achieved"
+    }
+  ],
+  "gaps": [
+    "no unified pointer enforcement in all sessions",
+    "write auth inconsistent across integrations",
+    "no native backchannel primitive",
+    "no automatic CoPack runner"
+  ],
+  "next_actions": [
+    "seed backchannel via receipts",
+    "standardize pointer-first enforcement",
+    "expand CoPack execution coverage",
+    "introduce local runner helper"
+  ]
+}
