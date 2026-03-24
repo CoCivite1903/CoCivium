@@ -1,0 +1,7 @@
+TITLE=Co~ CODREAM_BATCH
+STATE=CODREAM_TO_COREAL_GATE_POLICY
+UTC=20260324T202013Z
+RULE=CoDream packets are non-canonical
+RULE=Promotion requires CoAudit and fan-in verification
+RULE=No direct overwrite of CoReal
+RULE=Must link to supporting or contradicting CoReal
