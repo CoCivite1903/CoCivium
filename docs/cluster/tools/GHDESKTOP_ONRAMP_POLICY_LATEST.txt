@@ -1,0 +1,8 @@
+STATE=GHDESKTOP_ONRAMP_POLICY
+UTC=20260324T163633Z
+RULE=GitHub Desktop is an approved transitional onramp rail
+RULE=Fresh account and fresh repo suite are preferred for quarantine-first onboarding
+RULE=Legacy repos remain isolated until explicitly compared, mirrored, or migrated
+RULE=New users should start on a clean suite before touching older source estates
+RULE=Desktop UI may be used for low-friction clone/add/publish while CoStacks matures
+RULE=Canonical truth still lives in CoSources and receipts, not in GUI state
