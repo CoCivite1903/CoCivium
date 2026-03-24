@@ -1,0 +1,20 @@
+{
+  "id": "COCONTRACTREALITY",
+  "version": "v1",
+  "utc": "20260324T170709Z",
+  "pointer_required": "COBUS_LATEST_POINTERS.json",
+  "coreal_required": true,
+  "conod_modes": [
+    "PASS_REUSE",
+    "PASS_REFRESH_PARTIAL",
+    "PASS_REBIND",
+    "HOLD_SENSITIVITY",
+    "BLIND_STOP"
+  ],
+  "proof_rule": "public=write+exact_fetchable_url+expected_content ; local=written+indexed+receipted",
+  "coint_policy": "forbidden_except_IP_security_privacy",
+  "drain_policy": "non-sensitive CoInt drains steadily into bounded CoEx packets",
+  "stale_term_policy": "if remembered meaning conflicts with current CoReal contract, current CoReal wins",
+  "mandate_rule": "mandates are versioned and interpreted through current contract, not memory alone",
+  "cobus_rule": "fetch pointer first; no freehand scanning as primary bootstrap"
+}
