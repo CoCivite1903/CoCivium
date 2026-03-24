@@ -1,0 +1,8 @@
+STATE=COSTACKS_THROUGHPUT_POLICY
+UTC=20260324T170525Z
+RULE=Real Co~ shows throughput, not blank-cursor ambiguity
+RULE=Prefer counters and batch summaries over giant noisy output
+RULE=Externalize detailed logs and receipts; keep PS7 human-facing render sparse
+RULE=Support massive bounded lane counts with fan-in receipts
+RULE=Latest apostrophe mode means reuse verified rails, skip satisfied doctrine, run max bounded lanes, emit deltas only
+COUNTERS=lanes_active packets_done artifacts_landed receipts_landed retries failures fanin_batches wave_count cotide_count friction_markers
