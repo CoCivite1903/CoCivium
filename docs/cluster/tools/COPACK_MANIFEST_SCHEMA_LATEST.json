@@ -1,0 +1,16 @@
+{
+  "id": "COPACK_MANIFEST_SCHEMA",
+  "utc": "20260324T193940Z",
+  "fields": [
+    "pack_id",
+    "version",
+    "scripts",
+    "entry",
+    "lanes",
+    "hash",
+    "size",
+    "dependencies",
+    "receipt_target"
+  ],
+  "rule": "all packs must be manifest-addressable and hash-verifiable"
+}
