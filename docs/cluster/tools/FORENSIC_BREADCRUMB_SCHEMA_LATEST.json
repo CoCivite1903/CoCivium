@@ -1,0 +1,15 @@
+{
+  "id": "FORENSIC_BREADCRUMB_SCHEMA",
+  "utc": "20260324T193509Z",
+  "fields": [
+    "wave_title",
+    "pack_id",
+    "pack_raw",
+    "manifest_raw",
+    "receipt_raw",
+    "hash",
+    "cleanup_state",
+    "next_pointer"
+  ],
+  "rule": "minimal durable trace after transient execution"
+}
