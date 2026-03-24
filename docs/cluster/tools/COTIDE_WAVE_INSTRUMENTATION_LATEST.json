@@ -1,0 +1,20 @@
+{
+  "id": "COTIDE_WAVE_INSTRUMENTATION",
+  "utc": "20260324T165233Z",
+  "fields": [
+    "wave_session_count",
+    "wave_session_est_max",
+    "wave_cotide_count",
+    "wave_cotide_est_total",
+    "twilight_risk",
+    "friction_markers"
+  ],
+  "defaults": {
+    "wave_session_count": 1,
+    "wave_session_est_max": 50,
+    "wave_cotide_count": 1,
+    "wave_cotide_est_total": 200,
+    "twilight_risk": "low",
+    "friction_markers": []
+  }
+}
