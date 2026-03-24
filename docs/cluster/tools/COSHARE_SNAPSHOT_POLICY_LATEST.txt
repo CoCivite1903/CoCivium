@@ -1,0 +1,9 @@
+TITLE=Co~ SNAPSHOT_RECIPROCITY_BATCH
+STATE=COSHARE_SNAPSHOT_POLICY
+UTC=20260324T192817Z
+RULE=CoShare remains temporary conceptual root while budget constrained
+RULE=1903 remains active write rail
+RULE=Maintain reciprocal snapshots CoShare->1903 and 1903->CoShare
+RULE=Each snapshot requires zip manifest sha256 restore_priority receipt
+RULE=Control-plane snapshot is highest priority and most frequent
+RULE=Bulk-content snapshot is secondary and less frequent
