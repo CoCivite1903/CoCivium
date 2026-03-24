@@ -1,0 +1,16 @@
+{
+  "id": "COMANDATE_SCHEMA",
+  "utc": "20260324T170808Z",
+  "fields": [
+    "mandate_id",
+    "version",
+    "scope",
+    "inputs",
+    "outputs",
+    "constraints",
+    "proof_rule",
+    "receipt_required",
+    "fallbacks"
+  ],
+  "rule": "mandates are interpreted via CoContractReality not session memory"
+}
