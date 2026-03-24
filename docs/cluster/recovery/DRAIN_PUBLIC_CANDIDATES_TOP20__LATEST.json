@@ -1,0 +1,150 @@
+{
+  "id": "DRAIN_PUBLIC_CANDIDATES_TOP20",
+  "utc": "20260324T162218Z",
+  "source_manifest": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\cluster\\recovery\\DRAIN_FOLDER_MANIFEST__LATEST.json",
+  "state": "LOCAL_CANONICAL_BOOTSTRAPPED",
+  "selection_rule": "smallest public_candidate files first",
+  "count": 20,
+  "items": [
+    {
+      "rel": "CoBusTemp_Bootstrap_20260324T064617Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:46:18.6456816Z"
+    },
+    {
+      "rel": "CoBusTemp_ReceiptRepair_20260324T060012Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:00:13.8669869Z"
+    },
+    {
+      "rel": "CoBusTemp_ReceiptRepair_20260324T061957Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:19:58.1795868Z"
+    },
+    {
+      "rel": "CoDrain_Final_2026-03-24T080437Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T08:04:39.1676025Z"
+    },
+    {
+      "rel": "CoEx_Minimal_1903_20260324T050430Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T05:04:33.1149751Z"
+    },
+    {
+      "rel": "CoEx_Minimal_1903_20260324T050947Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T05:09:49.8371693Z"
+    },
+    {
+      "rel": "CoEx_Minimal_1903_20260324T053052Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T05:30:55.6452993Z"
+    },
+    {
+      "rel": "CoEx_Minimal_20260324T043924Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T04:39:28.2160415Z"
+    },
+    {
+      "rel": "CoEx_Minimal_Fix_20260324T044133Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T04:41:34.4106877Z"
+    },
+    {
+      "rel": "CoEx_Minimal_Fix_20260324T044330Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T04:43:31.6173829Z"
+    },
+    {
+      "rel": "CoEx_Minimal_Fix_20260324T044650Z\\CoCivite1903_CoCivium\\docs\\cluster\\bootstrap\\COEX_TEST.txt",
+      "bytes": 36,
+      "ext": ".txt",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T04:46:51.606499Z"
+    },
+    {
+      "rel": "CoBusTemp_Bootstrap_20260324T064617Z\\CoCivite1903_CoCivium\\docs\\cluster\\HANDOFF_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:46:18.6426878Z"
+    },
+    {
+      "rel": "CoBusTemp_Bootstrap_20260324T064617Z\\CoCivite1903_CoCivium\\docs\\cluster\\WORK_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:46:18.6446917Z"
+    },
+    {
+      "rel": "CoBusTemp_ReceiptRepair_20260324T060012Z\\CoCivite1903_CoCivium\\docs\\cluster\\HANDOFF_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:00:13.8649868Z"
+    },
+    {
+      "rel": "CoBusTemp_ReceiptRepair_20260324T060012Z\\CoCivite1903_CoCivium\\docs\\cluster\\WORK_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:00:13.8669869Z"
+    },
+    {
+      "rel": "CoBusTemp_ReceiptRepair_20260324T061957Z\\CoCivite1903_CoCivium\\docs\\cluster\\HANDOFF_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:19:58.1775527Z"
+    },
+    {
+      "rel": "CoBusTemp_ReceiptRepair_20260324T061957Z\\CoCivite1903_CoCivium\\docs\\cluster\\WORK_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T06:19:58.1785977Z"
+    },
+    {
+      "rel": "CoCivite1903_CoCivium\\docs\\cluster\\HANDOFF_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-22T22:53:27.6307239Z"
+    },
+    {
+      "rel": "CoCivite1903_CoCivium\\docs\\cluster\\WORK_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-22T22:53:27.6327238Z"
+    },
+    {
+      "rel": "CoDrain_Final_2026-03-24T080437Z\\CoCivite1903_CoCivium\\docs\\cluster\\HANDOFF_QUEUE.json",
+      "bytes": 57,
+      "ext": ".json",
+      "class": "PUBLIC_CANDIDATE",
+      "last_write_utc": "2026-03-24T08:04:39.1646958Z"
+    }
+  ]
+}
