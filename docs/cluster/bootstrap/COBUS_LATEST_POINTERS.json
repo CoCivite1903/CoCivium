@@ -1,0 +1,18 @@
+{
+  "utc": "20260324T154045Z",
+  "id": "COBUS_LATEST_POINTERS",
+  "latest": {
+    "handoff": "latest_in_docs/cluster/handoffs/",
+    "receipt": {
+      "path": "docs/cluster/receipts/COEX_ONLY_DEFAULT_V1_RECEIPT__2026-03-24T080437Z.json",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/d8bc9710024f1f1b99ce19a4cbac386280af7b95/docs/cluster/receipts/COEX_ONLY_DEFAULT_V1_RECEIPT__2026-03-24T080437Z.json",
+      "commit": "d8bc9710024f1f1b99ce19a4cbac386280af7b95"
+    },
+    "policy": "COEX_ONLY_DEFAULT_V1",
+    "bootstrap": {
+      "path": "docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
+      "commit": "9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4"
+    }
+  }
+}
