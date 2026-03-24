@@ -1,0 +1,6 @@
+STATE=COCHAT_PUBLIC_SHIELDED_SPLIT
+UTC=20260324T164924Z
+RULE=Public surface for coordination and onramp
+RULE=Shielded surface for org/tester concurrent collaboration
+RULE=Private lanes for IP/security/privacy protected packets
+RULE=All layers pointer-driven and receipt-backed
