@@ -1,0 +1,22 @@
+{
+  "TITLE": "Co~ GRAPH_ENABLEMENT_BATCH",
+  "id": "COGRAPH_SCHEMA",
+  "utc": "20260324T172425Z",
+  "node_fields": [
+    "id",
+    "type",
+    "version",
+    "raw",
+    "sha256",
+    "utc",
+    "tags"
+  ],
+  "edge_fields": [
+    "type",
+    "from",
+    "to",
+    "utc",
+    "evidence_raw"
+  ],
+  "rule": "Edges must reference evidence via RAW"
+}
