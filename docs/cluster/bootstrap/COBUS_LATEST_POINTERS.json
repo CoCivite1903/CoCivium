@@ -18,5 +18,9 @@
     "receipt required",
     "CoEx default",
     "no bulk zip via contents API"
-  ]
+  ],
+  "active_coprime_registry": {
+    "path": "docs/cluster/bootstrap/ACTIVE_COPRIME_REGISTRY_LATEST.json",
+    "rule": "all sessions must read registry to coordinate CoPrime activity"
+  }
 }
