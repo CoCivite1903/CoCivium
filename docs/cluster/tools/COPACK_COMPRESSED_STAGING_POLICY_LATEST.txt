@@ -1,0 +1,7 @@
+TITLE=Co~ ACTION_DEFAULT_BATCH
+STATE=COPACK_COMPRESSED_STAGING_POLICY
+UTC=20260324T193509Z
+RULE=Thousands of scripts per wave may be packed externally
+RULE=Pack pointer > pack fetch > unpack > execute > receipt > cleanup
+RULE=Keep manifest hash and breadcrumb after cleanup
+RULE=Chat never carries full script mass
