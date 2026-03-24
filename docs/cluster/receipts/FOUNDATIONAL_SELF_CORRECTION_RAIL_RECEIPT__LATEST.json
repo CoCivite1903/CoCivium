@@ -1,0 +1,12 @@
+{
+  "title": "Co~ CORRECTION_RAIL_BATCH",
+  "utc": "20260324T194918Z",
+  "bootstrap_read": true,
+  "audit_applied": true,
+  "self_prompt_applied": true,
+  "helper_prompt_applied": true,
+  "cross_session_check_applied": true,
+  "user_check_applied": true,
+  "truthful_state": "HYBRID_BOOTSTRAPPED",
+  "bounded_next": "land tiny control objects only; defer bulk zip to runner/git path"
+}
