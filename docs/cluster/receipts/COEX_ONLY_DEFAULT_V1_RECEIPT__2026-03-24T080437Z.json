@@ -1,0 +1,10 @@
+{
+  "ARTIFACT_NAME": "COEX_ONLY_DEFAULT_V1.txt",
+  "ARTIFACT_COMMIT_SHA": "9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4",
+  "ARTIFACT_RAW_URL": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
+  "ARTIFACT_HTTP_STATUS": 200,
+  "ARTIFACT_SHA256": "6c62445a924f32a43301729edebda657aa300e743a06a67ef29742bb5c4752ab",
+  "STATE": "COEX_VERIFIED",
+  "NEXT": "Use this as the standing default across future sessions; mirror later.",
+  "VERIFIED_UTC": "2026-03-24T08:04:37Z"
+}
