@@ -1,0 +1,25 @@
+{
+  "id": "COREAL_INDEX",
+  "utc": "20260324T165537Z",
+  "rule": "Only commit-SHA RAW verified artifacts included",
+  "anchors": [
+    {
+      "name": "policy_coex_only_default",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt"
+    },
+    {
+      "name": "drain_packet_top20",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/3f4c12e06666f16cea5b67c79316d5c663defd7c/docs/cluster/recovery/DRAIN_PUBLIC_CANDIDATES_TOP20__LATEST.json"
+    },
+    {
+      "name": "drain_packet_top20_receipt",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json"
+    }
+  ],
+  "coverage": {
+    "remaining_estimated": 869,
+    "packetized_items": 20,
+    "manifest_items_estimated": 889
+  },
+  "next": "continue draining smallest public-safe items; add to index each wave"
+}
