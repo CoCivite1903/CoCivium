@@ -1,0 +1,7 @@
+STATE=COSTACKS_EVERGREEN_CADENCE
+UTC=20260324T165233Z
+RULE=Every wave must include Co~Evergreen delta
+RULE=Maintain checklist of next objects and tick off via receipts
+RULE=Prefer many bounded lanes with one fan-in receipt
+RULE=No doctrine replay; only deltas
+RULE=If failure repeats twice, pivot route
