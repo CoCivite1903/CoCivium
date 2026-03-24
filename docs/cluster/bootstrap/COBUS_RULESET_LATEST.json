@@ -1,0 +1,18 @@
+{
+  "id": "COBUS_RULESET",
+  "utc": "20260324T170808Z",
+  "rules": [
+    "fetch pointer first",
+    "operate only from pointer-listed RAW artifacts",
+    "one tiny artifact per lane",
+    "one receipt per fan-in batch",
+    "no claim without RAW verification",
+    "no broad scanning as bootstrap"
+  ],
+  "routing": [
+    "A_PUBLIC_WRITABLE_REPO",
+    "B_MANUAL_WEB_COMMIT",
+    "C_LOCAL_CANONICAL",
+    "D_ALTERNATE_COSOURCE"
+  ]
+}
