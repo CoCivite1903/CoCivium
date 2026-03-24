@@ -1,0 +1,12 @@
+PUBLIC_BOOTSTRAP_REBIND_V4
+UTC=2026-03-24T06:46:17Z
+COBUSTEMP_REPO=https://github.com/CoCivite1903/CoCivium
+BRANCH=main
+BOOTSTRAP_PATH=docs/cluster/bootstrap/
+RECEIPT_PATH=docs/cluster/receipts/
+HANDOFF_PATH=docs/cluster/handoffs/
+TOOLING_PATH=docs/cluster/tools/
+RECOVERY_PATH=docs/cluster/recovery/
+TRUTH_RULE=Only pushed + RAW-reachable + SHA256-matching artifacts count as verified CoEx.
+CONOD_VNEXT=PASS_REUSE|PASS_REFRESH_PARTIAL|PASS_REBIND|HOLD_SENSITIVITY|BLIND_STOP
+STATE=COBUSTEMP_ACTIVE
