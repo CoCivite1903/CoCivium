@@ -1,0 +1,9 @@
+{
+  "id": "COBUS_LATEST_POINTERS",
+  "utc": "20260324T155208Z",
+  "bootstrap": "docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
+  "receipt": "docs/cluster/receipts/COEX_ONLY_DEFAULT_V1_RECEIPT__LATEST.json",
+  "policy": "docs/cluster/bootstrap/PUBLIC_BOOTSTRAP_REBIND_V4.txt",
+  "handoff": "docs/cluster/handoffs/HANDOFF__ACTIVE_CLUSTER__LATEST.txt",
+  "temp_bus_root": "docs/cluster/"
+}
