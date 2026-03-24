@@ -1,0 +1,8 @@
+TITLE=Co~ SNAPSHOT_RECIPROCITY_BATCH
+STATE=SNAPSHOT_RECIPROCITY_POLICY
+UTC=20260324T192817Z
+RULE=CoShare->1903 for root recovery
+RULE=1903->CoShare for active-rail recovery
+RULE=No zip without manifest
+RULE=No manifest without hashes
+RULE=No snapshot without tiny receipt
