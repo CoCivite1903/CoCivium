@@ -1,0 +1,36 @@
+TITLE=Co~ COGUARD_DRAGGABLE_CORE
+STATE=FORCED_REBIND
+UTC=20260324T173958Z
+
+STEP1=FETCH_POINTER:docs/cluster/bootstrap/COBUS_LATEST_POINTERS.json
+STEP2=FETCH_CONTRACT:COCONTRACTREALITY_LATEST.json
+STEP3=MODE=PASS_REBIND
+
+RULES=
+- chat_is_advisory_only
+- CoReal_only_operations
+- one_tiny_artifact_per_lane
+- one_receipt_per_fanin
+- no_fake_proof
+- no_memory_primary_bootstrap
+
+BACKCHANNEL=
+- BACKCHAT_ENABLED=true
+- BACKCHAT_RULE=write small coordination notes as receipts under docs/cluster/receipts/
+- BACKCHAT_SCOPE=session_to_session coordination only, no canon claims
+
+COPACK_SWITCH=
+- EXECUTE_EXTERNAL=true
+- EXPECTED=CoPack pointer or RAW bundle
+- FALLBACK=emit minimal packet + receipt
+
+OUTPUT=
+- emit_one_packet
+- emit_one_receipt
+- update_pointer_if_needed
+
+FAIL=
+- if pointer fails => BLIND_STOP
+- if repeated fail => pivot route
+
+END
