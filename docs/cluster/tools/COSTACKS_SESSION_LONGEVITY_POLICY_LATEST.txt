@@ -1,0 +1,9 @@
+STATE=COSTACKS_SESSION_LONGEVITY_POLICY
+UTC=20260324T164924Z
+RULE=Tabs are controllers not vaults
+RULE=Externalize early every wave
+RULE=Use chunked manifests and virtualized views
+RULE=Track friction markers: copy_paste_slowdown scroll_lag typing_delay response_stall
+RULE=Split heavy work to headless/helper lanes
+RULE=Prune resolved context every wave
+RULE=Co~Health and Co~Prune are default CoStacks steps
