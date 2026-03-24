@@ -1,5 +1,5 @@
 {
-  "generated_utc": "20260324T054811Z",
+  "generated_utc": "20260324T062210Z",
   "manifest_id": "INTAKE_MANIFEST_LATEST",
   "items": [
     {
@@ -19,6 +19,15 @@
       "intake_id": "INT_002",
       "sensitivity_class": "S0",
       "content_kind": "pointer_pack"
+    },
+    {
+      "publication_state": "unknown",
+      "source_kind": "user_report",
+      "status": "queued",
+      "recency": "hot",
+      "intake_id": "INT_003",
+      "sensitivity_class": "S0",
+      "content_kind": "publication_gap"
     }
   ],
   "source": "CoPrime_Sweepy260324"
