@@ -1,0 +1,8 @@
+TITLE=Co~ MESH_ENABLEMENT_BATCH
+STATE=COBUSNET_MESH_POLICY
+UTC=20260324T172231Z
+RULE=CoBusNet is constrained mesh (multi-rail, pointer-disciplined)
+RAILS=bootstrap mutation broadcast receipt fallback sensitive
+RULE=All-to-all read via pointer; role-scoped writes; receipts required
+RULE=Cross-rail receipts + mirror-aware reconciliation
+RULE=No single-rail dependence
