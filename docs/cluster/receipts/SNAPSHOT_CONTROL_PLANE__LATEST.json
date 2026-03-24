@@ -1,0 +1,19 @@
+{
+  "TITLE": "Co~ SNAPSHOT_CONTROL_PLANE_RECEIPT",
+  "id": "SNAPSHOT_CONTROL_PLANE_RECEIPT",
+  "utc": "20260324T192924Z",
+  "class": "control_plane",
+  "source": "CoCivite1903/CoCivium",
+  "target": "CoShare (conceptual root)",
+  "contents": [
+    "docs/cluster/bootstrap/*",
+    "docs/cluster/receipts/*",
+    "docs/cluster/tools/*",
+    "docs/cluster/handoffs/*"
+  ],
+  "zip_status": "PENDING_GENERATION",
+  "manifest_status": "PENDING_GENERATION",
+  "sha256_status": "PENDING_GENERATION",
+  "restore_priority": "bootstrap->control->recovery",
+  "rule": "proof-first receipt before bulk snapshot"
+}
