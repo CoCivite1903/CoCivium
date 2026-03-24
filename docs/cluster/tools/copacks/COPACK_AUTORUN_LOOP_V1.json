@@ -1,0 +1,38 @@
+{
+  "TITLE": "Co~ COPACK_AUTORUN_LOOP_LINK",
+  "id": "COPACK_AUTORUN_LOOP_V1",
+  "version": "v1",
+  "utc": "20260324T191113Z",
+  "entry": {
+    "components": [
+      "pointer",
+      "graph",
+      "metrics",
+      "drain"
+    ],
+    "type": "autorun"
+  },
+  "lanes": 128,
+  "steps": [
+    "fetch_pointer",
+    "fetch_graph",
+    "run_metrics_autorunner",
+    "run_drain_batch",
+    "emit_packet",
+    "emit_receipt",
+    "append_graph_edges",
+    "schedule_next"
+  ],
+  "fanin": {
+    "receipts": 1
+  },
+  "retry": {
+    "pivot_on": 3,
+    "max": 2
+  },
+  "fallback": [
+    "C_LOCAL_CANONICAL",
+    "D_ALTERNATE_COSOURCE"
+  ],
+  "next": "COPACK_AUTORUN_LOOP_V1"
+}
