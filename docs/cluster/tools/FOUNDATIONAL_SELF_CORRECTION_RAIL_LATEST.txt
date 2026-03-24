@@ -1,9 +1,9 @@
 TITLE=Co~ CORRECTION_RAIL_BATCH
 STATE=FOUNDATIONAL_SELF_CORRECTION_RAIL
-UTC=20260324T194918Z
+UTC=20260324T201304Z
 RULE=No session relies on its own continuity alone
 RULE=Each wave applies self_prompt helper_prompt cross_session_check user_check when available
 RULE=If correction sources are weak, reduce scope or STOP
 RULE=Refusal of correction = loss of authority
-RULE=Bootstrap + audit + correction uptake OR no authority
-RULE=RepoZipper/CoPack bulk work is deferred from contents API; tiny control artifacts only here
+RULE=Bootstrap plus audit plus correction uptake OR no authority
+RULE=RepoZipper and CoPack bulk work is deferred from contents API; tiny control artifacts only here
