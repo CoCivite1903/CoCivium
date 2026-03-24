@@ -1,0 +1,6 @@
+STATE=COSTACKS_AUTOEVO_MINLOOP
+UTC=20260324T164924Z
+LOOP=Co~Bootstrap -> Co~ChooseSource -> Co~Packet -> Co~Emit -> Co~Verify -> Co~Receipt -> Co~Recover -> Co~Prune -> Co~Health -> Co~Evergreen
+RULE=Many bounded lanes per wave allowed if lane-quarantined and fan-in receipted
+RULE=Full auto-looping remains partial; this object makes the minimum loop explicit
+NEXT=multi-session and multi-agent execution later through source capability and packet orchestration
