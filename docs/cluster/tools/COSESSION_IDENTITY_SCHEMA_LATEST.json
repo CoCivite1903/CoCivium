@@ -1,0 +1,39 @@
+{
+  "id": "COSESSION_IDENTITY_SCHEMA",
+  "utc": "20260324T165233Z",
+  "fields": [
+    "session_label",
+    "role",
+    "models",
+    "sources_read",
+    "sources_write",
+    "capabilities",
+    "constraints",
+    "current_route",
+    "proof_mode"
+  ],
+  "example": {
+    "session_label": "CoPrime",
+    "role": "orchestration",
+    "models": [
+      "gpt-5.x"
+    ],
+    "sources_read": [
+      "CoBusTemp RAW"
+    ],
+    "sources_write": [
+      "GitHub repo via gh api"
+    ],
+    "capabilities": [
+      "emit",
+      "verify",
+      "packetize"
+    ],
+    "constraints": [
+      "no secrets",
+      "no CoInt except protected"
+    ],
+    "current_route": "A_PUBLIC_WRITABLE_REPO",
+    "proof_mode": "commit-sha RAW verify"
+  }
+}
