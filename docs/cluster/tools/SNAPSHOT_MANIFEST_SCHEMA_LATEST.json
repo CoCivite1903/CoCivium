@@ -1,0 +1,20 @@
+{
+  "id": "SNAPSHOT_MANIFEST_SCHEMA",
+  "utc": "20260324T192817Z",
+  "fields": [
+    "snapshot_id",
+    "source",
+    "target",
+    "class",
+    "created_utc",
+    "zip_name",
+    "sha256",
+    "critical_paths",
+    "counts",
+    "sensitivity"
+  ],
+  "classes": [
+    "control_plane",
+    "bulk_content"
+  ]
+}
