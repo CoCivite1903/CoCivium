@@ -1,0 +1,23 @@
+{
+  "TITLE": "Co~ GRAPH_UPGRADE_BATCH",
+  "id": "COBUS_LATEST_POINTERS",
+  "utc": "20260324T173010Z",
+  "latest": {
+    "graph_index": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/2a02a45a3b8ee2d191f5d0b59ee8b8384f6d26cf/docs/cluster/bootstrap/COGRAPH_INDEX_LATEST.json"
+    },
+    "contract": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/bootstrap/COCONTRACTREALITY_LATEST.json"
+    },
+    "drain_receipt": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json"
+    },
+    "policy": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt"
+    },
+    "drain_packet": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/3f4c12e06666f16cea5b67c79316d5c663defd7c/docs/cluster/recovery/DRAIN_PUBLIC_CANDIDATES_TOP20__LATEST.json"
+    }
+  },
+  "rule": "Fetch pointer -> contract -> graph; operate from graph traversal only"
+}
