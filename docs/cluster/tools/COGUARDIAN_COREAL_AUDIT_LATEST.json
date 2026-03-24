@@ -1,0 +1,14 @@
+{
+  "id": "COGUARDIAN_COREAL_AUDIT",
+  "utc": "20260324T170145Z",
+  "checks": [
+    "pointer_fetch_first",
+    "coreal_fetch_only",
+    "receipt_recent",
+    "artifact_externalized",
+    "proof_truthful",
+    "friction_marker_present",
+    "twilight_scored",
+    "drain_progress_advancing"
+  ]
+}
