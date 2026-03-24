@@ -1,0 +1,12 @@
+{
+  "title": "Co~ FORCE_RAILS_RECEIPT",
+  "utc": "20260324T201152Z",
+  "state": "COEX_VERIFIED",
+  "mode": "PASS_REBIND",
+  "route": "A_PUBLIC_WRITABLE_REPO",
+  "pointer_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/bootstrap/COBUS_LATEST_POINTERS.json",
+  "contract_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/bootstrap/COCONTRACTREALITY_LATEST.json",
+  "policy_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
+  "cross_session_receipt_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json",
+  "bounded_next": "land one tiny control object or packet receipt only"
+}
