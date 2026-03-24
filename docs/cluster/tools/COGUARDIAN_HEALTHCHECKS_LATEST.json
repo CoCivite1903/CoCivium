@@ -1,0 +1,14 @@
+{
+  "id": "COGUARDIAN_HEALTHCHECKS",
+  "utc": "20260324T164924Z",
+  "checks": [
+    "pointer_fetch_ok",
+    "receipt_recent",
+    "artifact_externalized",
+    "copy_paste_slowdown",
+    "scroll_lag",
+    "response_stall_count",
+    "twilight_score",
+    "proof_truthfulness"
+  ]
+}
