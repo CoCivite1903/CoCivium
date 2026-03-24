@@ -1,0 +1,5 @@
+STATE=INSEED_EXEMPLAR_QUEUE
+UTC=20260324T164023Z
+RULE=prepare tiny public-safe exemplars first
+RULE=queue visible depth, not giant rollout
+NEXT=landing order: one exemplar, one receipt, one handoff
