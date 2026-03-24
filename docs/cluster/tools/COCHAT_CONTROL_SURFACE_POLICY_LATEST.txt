@@ -1,0 +1,7 @@
+STATE=COCHAT_CONTROL_SURFACE_POLICY
+UTC=20260324T164924Z
+RULE=CoChat surface may be public or shielded but is not canon truth
+RULE=Control surface renders from CoSources and receipts
+RULE=Visible items: pointers queues receipts wave counts CoTide progress lane health claims
+RULE=Sensitive packets stay on protected rails
+RULE=Control surface stays light; heavy state remains externalized
