@@ -1,0 +1,7 @@
+TITLE=Co~ GRAPH_ENABLEMENT_BATCH
+STATE=COGRAPH_QUERY_RULES
+UTC=20260324T172425Z
+RULE=Start from pointer -> expand via edges
+RULE=Prefer shortest verified path (fewest edges with RAW evidence)
+RULE=Disallow paths without receipts
+RULE=Support multi-hop, multi-rail traversal
