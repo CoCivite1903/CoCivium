@@ -1,0 +1,7 @@
+TITLE=Co~ EVOSTREAMING_BATCH
+STATE=COEVOSTREAMING_POLICY
+UTC=20260324T191450Z
+RULE=Many bounded candidate lanes may run in soft quarantine
+RULE=All outputs require fan-in receipts and reconciliation
+RULE=Old sessions are drain sources first, workers second
+RULE=Parallelism is preferred only when packetized and receipted
