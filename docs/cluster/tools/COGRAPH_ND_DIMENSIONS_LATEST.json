@@ -1,0 +1,15 @@
+{
+  "TITLE": "Co~ GRAPH_ENABLEMENT_BATCH",
+  "id": "COGRAPH_ND_DIMENSIONS",
+  "utc": "20260324T172425Z",
+  "dimensions": [
+    "time",
+    "version",
+    "sensitivity",
+    "role",
+    "rail",
+    "scope",
+    "confidence"
+  ],
+  "rule": "Queries slice graph by dimensions; no single linear view"
+}
