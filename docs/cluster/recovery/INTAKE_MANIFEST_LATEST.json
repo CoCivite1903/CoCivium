@@ -1,0 +1,25 @@
+{
+  "generated_utc": "20260324T054811Z",
+  "manifest_id": "INTAKE_MANIFEST_LATEST",
+  "items": [
+    {
+      "publication_state": "chat_only",
+      "source_kind": "session_residue",
+      "status": "clustered",
+      "recency": "hot",
+      "intake_id": "INT_001",
+      "sensitivity_class": "S1",
+      "content_kind": "runtime_design"
+    },
+    {
+      "publication_state": "public_unverified",
+      "source_kind": "bootstrap_reference",
+      "status": "clustered",
+      "recency": "hot",
+      "intake_id": "INT_002",
+      "sensitivity_class": "S0",
+      "content_kind": "pointer_pack"
+    }
+  ],
+  "source": "CoPrime_Sweepy260324"
+}
