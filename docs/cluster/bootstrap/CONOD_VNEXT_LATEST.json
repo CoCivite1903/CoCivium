@@ -1,0 +1,34 @@
+{
+  "id": "CONOD_VNEXT",
+  "utc": "20260324T170808Z",
+  "rule": "CoNod resolves from CoContractReality and pointer; memory is advisory",
+  "flow": [
+    "fetch_pointer",
+    "fetch_coreal_contract",
+    "select_mode",
+    "execute_bounded_wave",
+    "emit_receipt"
+  ],
+  "modes": [
+    {
+      "id": "PASS_REUSE",
+      "when": "valid recent receipt and same target"
+    },
+    {
+      "id": "PASS_REFRESH_PARTIAL",
+      "when": "partial drift detected"
+    },
+    {
+      "id": "PASS_REBIND",
+      "when": "pointer or contract updated"
+    },
+    {
+      "id": "HOLD_SENSITIVITY",
+      "when": "IP/security/privacy detected"
+    },
+    {
+      "id": "BLIND_STOP",
+      "when": "pointer fetch fails"
+    }
+  ]
+}
