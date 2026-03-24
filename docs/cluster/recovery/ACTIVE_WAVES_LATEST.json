@@ -1,0 +1,14 @@
+﻿{
+    "STATE":  "ACTIVE",
+    "UPDATED_UTC":  "2026-03-24T20:54:08Z",
+    "NOTE":  "Minimal coordination registry. Sessions must read before writing.",
+    "RULES":  [
+                  "Fetch this file before any write",
+                  "If your target path is listed → do not duplicate",
+                  "Write one artifact only",
+                  "Emit receipt after completion"
+              ],
+    "ACTIVE_WAVES":  [
+
+                     ]
+}
