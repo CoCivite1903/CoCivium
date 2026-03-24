@@ -1,0 +1,12 @@
+{
+  "state": "COEX_VERIFIED",
+  "title": "Co~ COPACK_ZIP_SEED_001",
+  "pack_id": "COPACK_ZIP_SEED_001",
+  "lanes": 128,
+  "scripts_executed": 128,
+  "artifacts_landed": 0,
+  "verified": 0,
+  "failed": 0,
+  "duration": "seed_only",
+  "pointer": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/11c8ffc066e901e4a4f3978d589e940c3cae2f95/docs/cluster/tools/copacks/COPACK_ZIP_SEED_001.pointer.json"
+}
