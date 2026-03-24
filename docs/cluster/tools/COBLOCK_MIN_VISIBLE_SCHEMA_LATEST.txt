@@ -1,0 +1,7 @@
+TITLE=Co~ COPACK_INFRA_BATCH
+STATE=COBLOCK_MIN_VISIBLE_SCHEMA
+UTC=20260324T193940Z
+RULE=Visible CoBlock must be minimal
+FIELDS=TITLE RUN POINTER RECEIPT
+RULE=No large inline scripts
+RULE=Execution must reference CoPack
