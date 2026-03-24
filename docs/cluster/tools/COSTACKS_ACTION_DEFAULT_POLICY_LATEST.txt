@@ -1,0 +1,9 @@
+TITLE=Co~ ACTION_DEFAULT_BATCH
+STATE=COSTACKS_ACTION_DEFAULT_POLICY
+UTC=20260324T193509Z
+RULE=Every meaningful wave defaults to Co~ ACTION section
+RULE=Visible CoBlock stays tiny
+RULE=Execution payload lives in CoPack or compressed stage
+RULE=Leave receipt pointer and forensic breadcrumb only
+RULE=Prefer public compressed pack when writable; else local compressed stage
+RULE=Delete transient unpacked execution residue after success where safe
