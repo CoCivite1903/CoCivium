@@ -1,6 +1,6 @@
 TITLE=Co~ CORRECTION_RAIL_BATCH
 STATE=FOUNDATIONAL_SELF_CORRECTION_RAIL
-UTC=20260324T201304Z
+UTC=20260324T201522Z
 RULE=No session relies on its own continuity alone
 RULE=Each wave applies self_prompt helper_prompt cross_session_check user_check when available
 RULE=If correction sources are weak, reduce scope or STOP
