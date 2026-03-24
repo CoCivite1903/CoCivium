@@ -1,7 +1,7 @@
 {
   "state": "COEX_VERIFIED",
   "title": "Co~ EDGEGEN_PACKET_001",
-  "packet_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/e2559d60fdecc426c69170f9847f8c70ca1fe08b/docs/cluster/tools/edgegen/COAUDIT_EDGEGEN_PACKET_001.json",
-  "packet_sha": "e2559d60fdecc426c69170f9847f8c70ca1fe08b",
+  "packet_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/d5a93fa270a6e2bd23b1984cfb3fc141d03ef4aa/docs/cluster/tools/edgegen/COAUDIT_EDGEGEN_PACKET_001.json",
+  "packet_sha": "d5a93fa270a6e2bd23b1984cfb3fc141d03ef4aa",
   "next": "emit EDGEGEN_PACKET_002 via CoPack loop"
 }
