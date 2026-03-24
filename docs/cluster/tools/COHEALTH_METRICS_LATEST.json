@@ -1,0 +1,12 @@
+{
+  "id": "COHEALTH_METRICS",
+  "utc": "20260324T183709Z",
+  "signals": [
+    "latency",
+    "stall_count",
+    "verified_ratio",
+    "pointer_compliance",
+    "orphan_nodes",
+    "retry_rate"
+  ]
+}
