@@ -1,6 +1,6 @@
 {
   "id": "COFRICTION_METRICS",
-  "utc": "20260324T183709Z",
+  "utc": "20260324T185337Z",
   "signals": [
     "scroll_lag",
     "copy_paste_delay",
