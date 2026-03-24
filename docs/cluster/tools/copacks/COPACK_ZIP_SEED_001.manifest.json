@@ -1,0 +1,8 @@
+{
+  "pack_id": "COPACK_ZIP_SEED_001",
+  "version": "v1",
+  "created_utc": "20260324T194211Z",
+  "scripts": 128,
+  "entry": "scripts/*.ps1",
+  "lanes": 128
+}
