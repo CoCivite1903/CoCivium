@@ -1,6 +1,6 @@
 {
   "id": "COREAL_INDEX",
-  "utc": "20260324T165537Z",
+  "utc": "20260324T171833Z",
   "rule": "Only commit-SHA RAW verified artifacts included",
   "anchors": [
     {
