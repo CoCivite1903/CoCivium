@@ -1,0 +1,58 @@
+{
+  "TITLE": "Co~ GRAPH_ENABLEMENT_BATCH",
+  "id": "COGRAPH_PRIMITIVES",
+  "utc": "20260324T172425Z",
+  "nodes": [
+    {
+      "id": "CoObject",
+      "types": [
+        "packet",
+        "policy",
+        "receipt",
+        "pointer",
+        "queue",
+        "manifest"
+      ]
+    },
+    {
+      "id": "Session",
+      "types": [
+        "worker",
+        "orchestrator",
+        "auditor"
+      ]
+    },
+    {
+      "id": "CoSource",
+      "types": [
+        "github",
+        "codeberg",
+        "local",
+        "api"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "DERIVES",
+      "dir": "A->B"
+    },
+    {
+      "id": "VERIFIES",
+      "dir": "A->B"
+    },
+    {
+      "id": "ROUTES",
+      "dir": "A->B"
+    },
+    {
+      "id": "MIRRORS",
+      "dir": "A<->B"
+    },
+    {
+      "id": "SUPERSEDES",
+      "dir": "A->B"
+    }
+  ],
+  "rule": "All objects are addressable nodes; all relations are explicit edges"
+}
