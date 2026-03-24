@@ -1,0 +1,14 @@
+{
+  "id": "COVPS_SCHEMA",
+  "utc": "20260324T172231Z",
+  "fields": [
+    "lanes_per_wave",
+    "artifacts_per_min",
+    "verified_ratio",
+    "retry_rate",
+    "fanin_latency",
+    "time_to_receipt",
+    "friction_score"
+  ],
+  "rule": "compute per wave; append via receipts"
+}
