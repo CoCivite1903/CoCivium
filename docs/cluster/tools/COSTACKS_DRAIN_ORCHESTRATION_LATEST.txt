@@ -1,0 +1,7 @@
+STATE=COSTACKS_DRAIN_ORCHESTRATION
+UTC=20260324T170145Z
+RULE=Drain non-sensitive CoInt steadily into CoEx packets
+RULE=Use clean worker sessions over aging bloated sources where possible
+RULE=One packet per lane one receipt per fan-in batch
+RULE=Soft-quarantine parallel dev until cutover
+RULE=Headless/helper lanes do heavy parse classify verify work
