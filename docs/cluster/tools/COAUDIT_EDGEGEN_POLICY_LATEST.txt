@@ -1,0 +1,9 @@
+TITLE=Co~ COAUDIT_EDGEGEN_BATCH
+STATE=COAUDIT_EDGEGEN_POLICY
+UTC=20260324T182002Z
+RULE=CoAudit remains advisory by default
+RULE=CoAudit.EdgeGen is the DO-focused audit wing
+RULE=Track app requests, affordances, integrations, and platform capture vectors
+RULE=Where possible, edge-generate equivalent functions outside closed surfaces
+RULE=Emit tiny audit packets, helper suggestions, and parity targets
+RULE=Each repo-suite may host a small CoAudit well
