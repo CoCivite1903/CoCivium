@@ -1,6 +1,6 @@
 TITLE=Co~ CORRECTION_RAIL_BATCH
 STATE=REPOZIPPER_DEFERRED_POLICY
-UTC=20260324T194918Z
-RULE=RepoZipper/CoPack bulk bundles should use runner/git/manual route, not gh contents API
-RULE=Contents API remains for tiny policy/receipt/pointer/control objects
+UTC=20260324T201304Z
+RULE=RepoZipper and CoPack bulk bundles should use runner, git, or manual route, not gh contents API
+RULE=Contents API remains for tiny policy, receipt, pointer, and control objects
 RULE=Bulk zip path returns later via CoPack runner helper
