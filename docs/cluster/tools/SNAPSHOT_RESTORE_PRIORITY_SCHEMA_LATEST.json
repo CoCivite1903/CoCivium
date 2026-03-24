@@ -1,0 +1,30 @@
+{
+  "id": "SNAPSHOT_RESTORE_PRIORITY_SCHEMA",
+  "utc": "20260324T192817Z",
+  "fields": [
+    "priority",
+    "object_class",
+    "path_or_glob",
+    "reason"
+  ],
+  "defaults": [
+    {
+      "priority": 1,
+      "object_class": "pointer+receipt+policy",
+      "path_or_glob": "docs/cluster/bootstrap/*",
+      "reason": "bootstrap first"
+    },
+    {
+      "priority": 2,
+      "object_class": "registries+graph",
+      "path_or_glob": "docs/cluster/**/*.json",
+      "reason": "control plane"
+    },
+    {
+      "priority": 3,
+      "object_class": "recovery packets",
+      "path_or_glob": "docs/cluster/recovery/*",
+      "reason": "drain continuation"
+    }
+  ]
+}
