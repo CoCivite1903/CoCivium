@@ -1,0 +1,25 @@
+TITLE=Co~ COKPI_AUTORUNNER_BOOT
+STATE=COKPI_AUTORUNNER
+UTC=20260324T190434Z
+
+LOOP=
+- fetch pointer
+- fetch graph index
+- fetch latest receipts
+- derive CoHealth/CoStatus/CoVPS
+- emit tiny metric receipt
+- sleep interval
+- repeat
+
+INTERVAL=short (adaptive later)
+
+RULES=
+- no chat dependency
+- CoReal-only reads
+- one receipt per loop
+- pivot if repeated failure
+
+OUTPUT=
+docs/cluster/receipts/COKPI_RUNTIME_SAMPLE__LATEST.json
+
+END
