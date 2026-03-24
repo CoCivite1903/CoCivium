@@ -1,0 +1,5 @@
+STATE=COAURA_SURFACE_DEPTH_QUEUE
+UTC=20260324T164023Z
+RULE=surface perceived depth through tiny additive artifacts
+RULE=prefer handoff queues and exemplar packets over large chat plans
+NEXT=land one CoAura-visible depth packet and receipt
