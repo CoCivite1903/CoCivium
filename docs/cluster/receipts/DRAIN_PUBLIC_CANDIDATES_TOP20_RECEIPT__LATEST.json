@@ -1,0 +1,9 @@
+{
+  "id": "DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT",
+  "utc": "20260324T163304Z",
+  "state": "PENDING_PUBLIC_VERIFICATION",
+  "route": "A_PUBLIC_WRITABLE_REPO",
+  "repo": "CoCivite1903/CoCivium",
+  "path": "docs/cluster/recovery/DRAIN_PUBLIC_CANDIDATES_TOP20__LATEST.json",
+  "receipt": "docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json"
+}
