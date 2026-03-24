@@ -1,0 +1,13 @@
+{
+  "id": "COSESSION_ROLE_SCOPING",
+  "utc": "20260324T182002Z",
+  "fields": [
+    "role_class",
+    "scope",
+    "route",
+    "proof_mode",
+    "session_label"
+  ],
+  "rule": "Do not trust title alone; trust typed role + scope + proof",
+  "note": "CoPrime remains generic orchestration class; typed function outranks prestige naming"
+}
