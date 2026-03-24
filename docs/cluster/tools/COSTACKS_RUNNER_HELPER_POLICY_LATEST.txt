@@ -1,0 +1,8 @@
+TITLE=Co~ COPACK_INFRA_BATCH
+STATE=COSTACKS_RUNNER_HELPER_POLICY
+UTC=20260324T193940Z
+RULE=Runner fetches CoPack zip or manifest
+RULE=Unpack execute many scripts in parallel
+RULE=Emit one fan-in receipt
+RULE=Clean up transient execution files
+RULE=Support looped execution via next pointer
