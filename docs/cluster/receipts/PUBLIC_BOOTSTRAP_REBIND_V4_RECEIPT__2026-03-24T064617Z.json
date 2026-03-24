@@ -1,0 +1,9 @@
+{
+  "ARTIFACT_NAME": "PUBLIC_BOOTSTRAP_REBIND_V4.txt",
+  "ARTIFACT_COMMIT_SHA": "ee9efb437e901d70a9f151cef597352aa805b511",
+  "ARTIFACT_RAW_URL": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/ee9efb437e901d70a9f151cef597352aa805b511/docs/cluster/bootstrap/PUBLIC_BOOTSTRAP_REBIND_V4.txt",
+  "ARTIFACT_HTTP_STATUS": 200,
+  "STATE": "COEX_VERIFIED",
+  "NEXT": "Land one tiny handoff or tooling artifact only",
+  "VERIFIED_UTC": "2026-03-24T06:46:20Z"
+}
