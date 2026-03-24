@@ -1,0 +1,14 @@
+COEX_ONLY_DEFAULT_V1
+STATE=ACTIVE
+
+RULE=All non-sensitive work must be CoEx-first and CoEx-default.
+
+PROHIBITION=No session-local staging or chat-only holding for non-sensitive work.
+
+EXCEPTION=Temporary non-public handling allowed only for IP sensitivity, security, privacy, or equivalent protected cases.
+
+RELAY_RULE=Do not use user as mailman when CoBusTemp or another CoSource rail is available.
+
+TRUTH_RULE=Only pushed + RAW-reachable + SHA256-matching artifacts count as verified CoEx.
+
+PATTERN=One tiny artifact per meaningful wave with a matching receipt.
