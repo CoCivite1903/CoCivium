@@ -1,0 +1,38 @@
+{
+  "id": "COSOURCE_CAPABILITIES",
+  "utc": "20260324T163633Z",
+  "sources": [
+    {
+      "id": "CoCivite1903/CoCivium",
+      "role": "active_bus",
+      "readable": true,
+      "writable": true,
+      "raw_verify": true,
+      "quarantine_ok": true
+    },
+    {
+      "id": "CoCivium/root",
+      "role": "protected_legacy",
+      "readable": "varies",
+      "writable": "restricted",
+      "raw_verify": "varies",
+      "quarantine_ok": false
+    },
+    {
+      "id": "GitHubDesktop",
+      "role": "transitional_ui",
+      "readable": true,
+      "writable": true,
+      "raw_verify": false,
+      "quarantine_ok": true
+    },
+    {
+      "id": "Codeberg",
+      "role": "third_rail_candidate",
+      "readable": "likely",
+      "writable": "user_scoped",
+      "raw_verify": "host_specific",
+      "quarantine_ok": true
+    }
+  ]
+}
