@@ -1,0 +1,14 @@
+{
+  "id": "ENTMENT_DRAIN_PACKET",
+  "utc": "20260324T164023Z",
+  "source_session": "EntMent260317",
+  "state": "DRAIN_READY",
+  "packets": [
+    "extract_tasks",
+    "extract_terms",
+    "extract_handoffs",
+    "extract_publication_candidates"
+  ],
+  "rule": "bounded extraction only; no chat expansion",
+  "next": "land tiny exemplars and handoff packets"
+}
