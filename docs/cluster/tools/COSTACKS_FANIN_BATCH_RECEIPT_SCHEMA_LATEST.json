@@ -1,0 +1,15 @@
+{
+  "id": "COSTACKS_FANIN_BATCH_RECEIPT",
+  "utc": "20260324T193940Z",
+  "fields": [
+    "pack_id",
+    "lanes",
+    "scripts_executed",
+    "artifacts_landed",
+    "verified",
+    "failed",
+    "duration",
+    "next"
+  ],
+  "rule": "one receipt summarizes massive parallel execution"
+}
