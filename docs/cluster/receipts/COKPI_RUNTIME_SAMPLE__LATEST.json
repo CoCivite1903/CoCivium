@@ -1,0 +1,32 @@
+{
+  "TITLE": "Co~ COKPI_RUNTIME_SAMPLE",
+  "id": "COKPI_RUNTIME_SAMPLE",
+  "utc": "20260324T185604Z",
+  "ui_friction": {
+    "scroll_lag": "moderate",
+    "input_latency": "low",
+    "copy_paste_delay": "increasing"
+  },
+  "execution": {
+    "lanes_per_wave": 128,
+    "retry_rate": 0.08,
+    "artifacts_landed": 37,
+    "verified_ratio": 0.92
+  },
+  "alignment": {
+    "fake_proof_incidents": 0,
+    "doctrine_replay": "low",
+    "pointer_compliance": "high"
+  },
+  "topology": {
+    "orphan_nodes": 3,
+    "readable_sources": 5,
+    "writable_sources": 1,
+    "split_brain_risk": "low"
+  },
+  "derived": {
+    "cohealth": "DEGRADED_UI_BUT_STABLE_CORE",
+    "costatus": "ACTIVE_REBIND_GRAPH_MODE",
+    "covps": "HIGH"
+  }
+}
