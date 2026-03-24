@@ -1,0 +1,22 @@
+{
+  "near_term_modules": [
+    "WaveEmitter",
+    "ProofCheck",
+    "PacketSeed",
+    "HandoffNote",
+    "RecoveryLedger",
+    "MirrorLater"
+  ],
+  "utc": "20260324T062210Z",
+  "intent": "Seed minimal AutoEvo wave engine primitives",
+  "component": "CoStacks",
+  "primitives": [
+    "Co~Bootstrap",
+    "Co~Emit",
+    "Co~Verify",
+    "Co~Receipt",
+    "Co~Handoff",
+    "Co~Recover"
+  ],
+  "doctrine": "Every meaningful wave should externalize one tiny verified artifact"
+}
