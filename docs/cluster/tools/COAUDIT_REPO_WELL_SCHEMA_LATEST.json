@@ -1,0 +1,14 @@
+{
+  "id": "COAUDIT_REPO_WELL_SCHEMA",
+  "utc": "20260324T182002Z",
+  "fields": [
+    "repo_suite",
+    "audit_scope",
+    "affordance_map",
+    "app_requests_seen",
+    "edge_parity_targets",
+    "receipts",
+    "helpers"
+  ],
+  "rule": "lightweight audit well per serious CoSource/repo-suite"
+}
