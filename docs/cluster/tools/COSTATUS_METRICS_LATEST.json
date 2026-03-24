@@ -1,0 +1,12 @@
+{
+  "id": "COSTATUS_METRICS",
+  "utc": "20260324T183709Z",
+  "fields": [
+    "state",
+    "mode",
+    "route",
+    "active_pointer",
+    "last_receipt",
+    "current_wave"
+  ]
+}
