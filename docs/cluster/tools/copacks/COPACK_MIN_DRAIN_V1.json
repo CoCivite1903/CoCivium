@@ -1,0 +1,35 @@
+{
+  "TITLE": "Co~ COPACK_BOOTSTRAP_MIN",
+  "id": "COPACK_MIN_DRAIN_V1",
+  "version": "v1",
+  "utc": "20260324T180100Z",
+  "entry": {
+    "type": "drain",
+    "count": 20,
+    "offset": 40
+  },
+  "lanes": 64,
+  "steps": [
+    "fetch_pointer",
+    "fetch_contract",
+    "select_mode",
+    "build_packet",
+    "emit",
+    "verify",
+    "receipt",
+    "append_index"
+  ],
+  "fanin": {
+    "receipts": 1
+  },
+  "retry": {
+    "pivot_on": 3,
+    "max": 2
+  },
+  "fallback": [
+    "B_MANUAL_WEB_COMMIT",
+    "C_LOCAL_CANONICAL",
+    "D_ALTERNATE_COSOURCE"
+  ],
+  "next": "COPACK_MIN_DRAIN_V1"
+}
