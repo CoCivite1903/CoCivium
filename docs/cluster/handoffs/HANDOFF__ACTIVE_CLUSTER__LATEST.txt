@@ -1,0 +1,11 @@
+STATE=PACK_ACTIVE
+SOURCE=CoPrime_Sweepy260324
+ASSIGNMENTS=
+- CoIntEx260322=PACKET_002 recent recovery
+- CoUS.4.260322b.CoStacks=PACKET_001 bootstrap audit
+- CoUS.4.260322s.stacks=PACKET_003 publication gaps
+RULES=
+- one packet per session
+- no scope expansion
+- no fake CoEx claims
+- all outputs return to reconcile
