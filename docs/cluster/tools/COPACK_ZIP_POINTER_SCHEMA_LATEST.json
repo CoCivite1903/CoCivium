@@ -1,0 +1,12 @@
+{
+  "id": "COPACK_ZIP_POINTER_SCHEMA",
+  "utc": "20260324T193940Z",
+  "fields": [
+    "pack_id",
+    "zip_raw",
+    "manifest_raw",
+    "sha256",
+    "created_utc"
+  ],
+  "rule": "zip pointer must include manifest and hash"
+}
