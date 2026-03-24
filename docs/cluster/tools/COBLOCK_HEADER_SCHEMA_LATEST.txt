@@ -1,0 +1,10 @@
+TITLE=Co~ MESH_ENABLEMENT_BATCH
+STATE=COBLOCK_HEADER_SCHEMA
+UTC=20260324T172231Z
+RULE=Every CoBlock has:
+- single-line TITLE (inside block)
+- duplicated short TITLE in section header
+- UTC timestamp
+- counters heartbeat
+- end receipt
+RULE=Missing TITLE => invalid block
