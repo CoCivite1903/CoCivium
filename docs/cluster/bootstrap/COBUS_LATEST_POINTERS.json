@@ -1,18 +1,19 @@
 {
-  "utc": "20260324T154045Z",
   "id": "COBUS_LATEST_POINTERS",
+  "utc": "20260324T165537Z",
   "latest": {
-    "handoff": "latest_in_docs/cluster/handoffs/",
-    "receipt": {
-      "path": "docs/cluster/receipts/COEX_ONLY_DEFAULT_V1_RECEIPT__2026-03-24T080437Z.json",
-      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/d8bc9710024f1f1b99ce19a4cbac386280af7b95/docs/cluster/receipts/COEX_ONLY_DEFAULT_V1_RECEIPT__2026-03-24T080437Z.json",
-      "commit": "d8bc9710024f1f1b99ce19a4cbac386280af7b95"
+    "coreal_index": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/b3e514d948c744280f3f576a97e6d80cf17188a3/docs/cluster/bootstrap/COREAL_INDEX_LATEST.json"
     },
-    "policy": "COEX_ONLY_DEFAULT_V1",
-    "bootstrap": {
-      "path": "docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
-      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt",
-      "commit": "9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4"
+    "drain_receipt": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f917b749b9d4f3910cb03293db5559244b4c6607/docs/cluster/receipts/DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT__LATEST.json"
+    },
+    "policy": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9f190b8ba0c280aabeabbfdc08fbc8a712a5c3d4/docs/cluster/bootstrap/COEX_ONLY_DEFAULT_V1.txt"
+    },
+    "drain_packet": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/3f4c12e06666f16cea5b67c79316d5c663defd7c/docs/cluster/recovery/DRAIN_PUBLIC_CANDIDATES_TOP20__LATEST.json"
     }
-  }
+  },
+  "rule": "Fetch pointer first; do not scan; operate from listed RAWs only"
 }
