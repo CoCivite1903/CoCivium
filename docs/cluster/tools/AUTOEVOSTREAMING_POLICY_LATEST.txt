@@ -1,0 +1,7 @@
+TITLE=Co~ EVOSTREAMING_BATCH
+STATE=AUTOEVOSTREAMING_POLICY
+UTC=20260324T191450Z
+RULE=CoPack loops may repeat automatically with bounded steps
+RULE=Priority shifts from raw CoEx to truthful fan-in and retirement
+RULE=Headless/multi-session execution is later-stage helper capacity
+RULE=No unmanaged mass reactivation
