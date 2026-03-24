@@ -1,0 +1,7 @@
+STATE=GROUPBUILD_ONRAMP_QUEUE
+UTC=20260324T163633Z
+TARGETS=EntMent,inseed,CoGBx,CoAura,CoChat
+EARLY_COHORT=Elias,Andrew,Darren,Chris
+RULE=Queue support and visible depth should be externalized as tiny additive artifacts
+RULE=Aging sessions such as EntMent260317 should be drained via bounded packets, not expanded in chat
+NEXT=land tiny exemplars, handoffs, and packet manifests on CoBusTemp
