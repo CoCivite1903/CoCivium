@@ -1,0 +1,10 @@
+{
+  "id": "COFRICTION_METRICS",
+  "utc": "20260324T183709Z",
+  "signals": [
+    "scroll_lag",
+    "copy_paste_delay",
+    "input_latency",
+    "ui_block_events"
+  ]
+}
