@@ -1,0 +1,7 @@
+TITLE=Co~ COAUDIT_EDGEGEN_BATCH
+STATE=COAFFORDANCE_CAPTURE_QUEUE
+UTC=20260324T182002Z
+TRACK=app_requests affordances integrations helper_needs edge_parity_targets
+RULE=Convert observations into tiny receipted packets
+RULE=Prefer open/edge equivalents where feasible
+NEXT=seed first audit packets from active surfaces
