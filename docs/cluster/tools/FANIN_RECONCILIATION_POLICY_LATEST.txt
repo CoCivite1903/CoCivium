@@ -1,0 +1,6 @@
+TITLE=Co~ EVOSTREAMING_BATCH
+STATE=FANIN_RECONCILIATION_POLICY
+UTC=20260324T191450Z
+RULE=Rank merge retire or loop all candidate outputs
+RULE=No duplicate winners without explicit coexistence rule
+RULE=Receipts outrank chat claims
