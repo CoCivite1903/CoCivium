@@ -1,0 +1,12 @@
+{
+  "ARTIFACT_NAME": "COEX_TEST.txt",
+  "PROOF_COMMIT_SHA": "a48063a",
+  "PROOF_RAW_URL": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/a48063a/docs/cluster/bootstrap/COEX_TEST.txt",
+  "PROOF_HTTP_STATUS": 200,
+  "PROOF_RAW_TRIMMED": "COEX_TEST_OK__2026-03-24T05:30:52Z",
+  "PROOF_RAW_SHA256": "b40de905d931f02856fb66756fec5435e062752db5d471334078a76810ed7f21",
+  "VERIFICATION_METHOD": "RAW fetch + HTTP 200 + SHA256(raw content) + trimmed content",
+  "STATE": "COEX_VERIFIED",
+  "NEXT": "Land one tiny bootstrap artifact under docs/cluster/bootstrap/ using same discipline",
+  "VERIFIED_UTC": "2026-03-24T06:19:58Z"
+}
