@@ -1,0 +1,26 @@
+{
+  "id": "COGUARD_TRIGGERMAP",
+  "utc": "20260324T164924Z",
+  "triggers": [
+    {
+      "symptom": "chat_bloat",
+      "action": "COPRE_REBIND"
+    },
+    {
+      "symptom": "no_emit",
+      "action": "COPRE_REBIND"
+    },
+    {
+      "symptom": "fake_proof",
+      "action": "COPRE_REBIND"
+    },
+    {
+      "symptom": "twilight",
+      "action": "COPRE_DRAIN"
+    },
+    {
+      "symptom": "healthy_productive",
+      "action": "COPRE_WORK"
+    }
+  ]
+}
