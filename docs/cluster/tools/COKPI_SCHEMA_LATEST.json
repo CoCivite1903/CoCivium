@@ -1,0 +1,11 @@
+{
+  "id": "COKPI_SCHEMA",
+  "utc": "20260324T183709Z",
+  "dimensions": [
+    "ui_friction",
+    "execution",
+    "alignment",
+    "topology"
+  ],
+  "rule": "CoHealth derived from multi-dimensional metrics, not UI proxy"
+}
