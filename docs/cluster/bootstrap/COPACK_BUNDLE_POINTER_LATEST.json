@@ -1,0 +1,11 @@
+{
+  "TITLE": "Co~ COPACK_BOOTSTRAP_MIN",
+  "id": "COPACK_BUNDLE_POINTER",
+  "utc": "20260324T180100Z",
+  "latest": {
+    "copack": {
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/70a89b933693d7718cfb0872584a03969a8534c7/docs/cluster/tools/copacks/COPACK_MIN_DRAIN_V1.json"
+    }
+  },
+  "rule": "RUN COPACK via pointer; sessions orchestrate, CoStacks executes"
+}
