@@ -1,0 +1,16 @@
+{
+  "id": "COSTACKS_COPACK_SCHEMA",
+  "utc": "20260324T173958Z",
+  "fields": [
+    "id",
+    "version",
+    "entry",
+    "lanes",
+    "steps",
+    "fanin",
+    "retry",
+    "fallback",
+    "next"
+  ],
+  "rule": "CoPack is external execution unit; sessions only trigger"
+}
