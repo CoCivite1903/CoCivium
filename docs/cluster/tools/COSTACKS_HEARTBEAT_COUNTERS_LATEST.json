@@ -1,0 +1,15 @@
+{
+  "id": "COSTACKS_HEARTBEAT_COUNTERS",
+  "utc": "20260324T172231Z",
+  "counters": [
+    "lanes_active",
+    "artifacts_landed",
+    "verified",
+    "failed",
+    "fanin_batches",
+    "wave_count",
+    "cotide_count",
+    "friction_markers"
+  ],
+  "rule": "show counters in PS7; externalize details"
+}
