@@ -1,0 +1,9 @@
+{
+  "id": "INTAKE_MANIFEST",
+  "utc": "20260324T071448Z",
+  "packets": [
+    "bootstrap",
+    "receipt",
+    "momentum"
+  ]
+}
