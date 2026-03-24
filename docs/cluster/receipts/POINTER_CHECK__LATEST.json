@@ -1,0 +1,8 @@
+{
+  "session":"CoPrime",
+  "utc":"20260324T082248Z",
+  "task":"pointer_check",
+  "target":"docs/cluster/bootstrap/COBUS_LATEST_POINTERS.json",
+  "state":"PENDING_PUBLIC_VERIFICATION"
+}
+

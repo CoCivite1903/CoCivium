@@ -1,0 +1,32 @@
+[
+  {
+    "path": "docs/cluster/bootstrap/COBUS_TEMP_BOOTSTRAP_NOTE__LATEST.json",
+    "raw_hash": "80a22c76cf7b3fa3e0882bd2b68827886ba8593be285d9177e9a7ce0a560054a",
+    "local_hash": null,
+    "match": false
+  },
+  {
+    "path": "docs/cluster/recovery/INTAKE_MANIFEST_LATEST.json",
+    "raw_hash": "f4cba3b674a25aa9bdd21fe5bab84a3b4e17595301b66fcf3dbb3dd00352dd13",
+    "local_hash": null,
+    "match": false
+  },
+  {
+    "path": "docs/cluster/receipts/RECEIPT__COPRIME_SWEEPY260324__LATEST.json",
+    "raw_hash": "9a4f289ab4ae7c78ac237b1c24bd894ed0817b75fc42ea97c0b000b5872a5591",
+    "local_hash": null,
+    "match": false
+  },
+  {
+    "path": "docs/cluster/tools/COSTACKS_MOMENTUM__LATEST.json",
+    "raw_hash": "50e8aeb1032b238e869b56e92de33ffb7a8ebb1200cc8ddeac4f37a952ce6aa3",
+    "local_hash": null,
+    "match": false
+  },
+  {
+    "path": "docs/cluster/handoffs/HANDOFF__ACTIVE_CLUSTER__LATEST.txt",
+    "raw_hash": "aa9a4fa0487c1f81f392c1d1f076b99a1bc1fe42c1930b07e664f98989033693",
+    "local_hash": null,
+    "match": false
+  }
+]

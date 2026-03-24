@@ -1,0 +1,10 @@
+{
+  "id": "DRAIN_FOLDER_MANIFEST_RECEIPT",
+  "utc": "20260324T161828Z",
+  "route": "C_LOCAL_CANONICAL_SPINE",
+  "state": "LOCAL_CANONICAL_BOOTSTRAPPED",
+  "artifact": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\cluster\\recovery\\DRAIN_FOLDER_MANIFEST__LATEST.json",
+  "next": "emit one tiny public-safe packet from PUBLIC_CANDIDATE set",
+  "session_friction_marker": "copy_paste_slowdown_observed"
+}
+

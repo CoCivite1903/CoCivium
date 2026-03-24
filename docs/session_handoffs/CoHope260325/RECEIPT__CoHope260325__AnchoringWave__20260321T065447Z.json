@@ -1,0 +1,45 @@
+{
+  "UTC": "2026-03-21T06:54:47Z",
+  "Session": "CoHope260325",
+  "Wave": "AnchoringWave_v1",
+  "TruthfulHitchStateBefore": "read_attached",
+  "TruthfulHitchStateAfter": "write_attached_local_file_only",
+  "Root": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium",
+  "Article": {
+    "Path": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\RickPublic\\substack\\articles\\CoHope_001__The_First_Sign_of_a_Civilized_Mind__20260321T065447Z.md",
+    "SHA256": "5F7A5DE0159CA109B9DF76D3C58F592412B594BBBDA9BAE4536DE2C876CE58DE",
+    "Sidecar": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\RickPublic\\substack\\articles\\CoHope_001__The_First_Sign_of_a_Civilized_Mind__20260321T065447Z.md.sha256"
+  },
+  "BootstrapEvidence": {
+    "Path": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\session_handoffs\\CoHope260325\\BOOTSTRAP_EVIDENCE__CoHope260325__20260321T065447Z.json",
+    "SHA256": "7B716C8CAA09F45F7A514D356B8954993FE3ABFA7AC6DD2BC4AF6358F41D2BED",
+    "Sidecar": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\session_handoffs\\CoHope260325\\BOOTSTRAP_EVIDENCE__CoHope260325__20260321T065447Z.json.sha256"
+  },
+  "HandoffTemplate": {
+    "Path": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\session_handoffs\\CoHope260325\\HANDOFF_TEMPLATE__Canonical__20260321T065447Z.md",
+    "SHA256": "9A666890A6F06E36B86FD24A3ACC6AACEEE7D0B2EE767D273564FDD5A8853ED0",
+    "Sidecar": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\session_handoffs\\CoHope260325\\HANDOFF_TEMPLATE__Canonical__20260321T065447Z.md.sha256"
+  },
+  "CoBusDraft": {
+    "Path": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\session_handoffs\\CoHope260325\\DRAFT__CoBusNote__CoHope260325__PostAnchor__20260321T065447Z.md",
+    "SHA256": "275647878C4110CCCFF29EE466191E0B55976653BB42E0F885F707E38F7F79D1",
+    "Sidecar": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\session_handoffs\\CoHope260325\\DRAFT__CoBusNote__CoHope260325__PostAnchor__20260321T065447Z.md.sha256",
+    "PublishState": "DRAFT_ONLY_UNTIL_REMOTE_TRUTH_EXISTS"
+  },
+  "Git": {
+    "CommitAttempted": true,
+    "CommitSucceeded": false,
+    "CommitSha": null,
+    "CommitMessage": null,
+    "Output": "The property 'sha256' cannot be found on this object. Verify that the property exists."
+  },
+  "RemoteTruth": {
+    "PushAttempted": false,
+    "RawVerified": false,
+    "Note": "This block does not fake remote push or RAW verification."
+  },
+  "NextAnchor": {
+    "Name": "Push/verify the anchoring artifacts or produce next article mutation with same proof discipline",
+    "RecommendedSingleMutation": "Push current commit and verify remote RAW, or create Article 002 as a separate verified wave"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "DRAIN_PUBLIC_CANDIDATES_TOP20_RECEIPT",
+  "utc": "20260324T162218Z",
+  "route": "C_LOCAL_CANONICAL_SPINE",
+  "state": "LOCAL_CANONICAL_BOOTSTRAPPED",
+  "artifact": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\cluster\\recovery\\DRAIN_PUBLIC_CANDIDATES_TOP20__LATEST.json",
+  "next": "publish one tiny item or one tiny packet manifest to public rail",
+  "friction": "dom_lag_externalize_more"
+}
+

@@ -1,0 +1,22 @@
+[
+  {
+    "file": "BOOTSTRAP.json",
+    "url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/batch_v1__20260324T071448Z/BOOTSTRAP.json",
+    "verified": false
+  },
+  {
+    "file": "MANIFEST.json",
+    "url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/batch_v1__20260324T071448Z/MANIFEST.json",
+    "verified": false
+  },
+  {
+    "file": "MOMENTUM.json",
+    "url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/batch_v1__20260324T071448Z/MOMENTUM.json",
+    "verified": false
+  },
+  {
+    "file": "RECEIPT.json",
+    "url": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/batch_v1__20260324T071448Z/RECEIPT.json",
+    "verified": false
+  }
+]

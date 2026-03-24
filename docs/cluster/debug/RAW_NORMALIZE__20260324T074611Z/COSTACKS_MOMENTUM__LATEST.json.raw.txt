@@ -1,0 +1,1 @@
+@{near_term_modules=System.Object[]; utc=20260324T062356Z; intent=Seed minimal AutoEvo wave engine primitives; component=CoStacks; primitives=System.Object[]; doctrine=Every meaningful wave should externalize one tiny verified artifact}

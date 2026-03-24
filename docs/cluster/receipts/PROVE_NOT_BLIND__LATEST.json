@@ -1,0 +1,8 @@
+{
+  "session": "CoPrime",
+  "route": "A_READ_PROOF + C_LOCAL_CANONICAL",
+  "path": "docs/cluster/receipts/PROVE_NOT_BLIND__LATEST.json",
+  "verification": "RAW 200 on known-good CoBusTemp URLs; local file written",
+  "state": "HYBRID_BOOTSTRAPPED"
+}
+
