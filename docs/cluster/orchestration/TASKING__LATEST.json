@@ -1,0 +1,32 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T054609Z",
+  "session": "CoUS.4.260324.audit.cont",
+  "tasking": [
+    {
+      "target": "CoUS.4.260324.audit.cont",
+      "role": "PRIMARY_ORCHESTRATOR",
+      "task": "classify_active_sessions_and_emit_first_3_tasks",
+      "sensitivity": "S0"
+    },
+    {
+      "target": "CoUS.4.260325s",
+      "role": "SHADOW_MONITOR",
+      "task": "validate_primary_tasking_for_drift_duplication_and_glukey_risk",
+      "sensitivity": "S0"
+    },
+    {
+      "target": "ALL_ACTIVE_COPROCESSORS",
+      "role": "SESSION_COPROCESSOR",
+      "task": "emit_one_bounded_READY_TASK_DELTA_or_BLOCKED_output",
+      "sensitivity": "S0"
+    }
+  ],
+  "sensitivity_gate": {
+    "S0": "public",
+    "S1": "restricted_low",
+    "S2": "restricted_medium",
+    "S3": "restricted_high",
+    "S4": "coglukey_core_blocked_without_clearance"
+  }
+}
