@@ -1,0 +1,30 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T213906Z",
+  "scope": "SESSION_STATUS_GATE",
+  "sensitivity": "S1",
+  "allowed_statuses": [
+    "READY",
+    "HOLD",
+    "BLOCKED",
+    "CONTEXT_ONLY",
+    "DELTA_ONLY",
+    "TARGET_MISMATCH",
+    "IDENTITY_CONFLICT"
+  ],
+  "required_fields": [
+    "session",
+    "role",
+    "status",
+    "action",
+    "next"
+  ],
+  "rules": [
+    "no_coex_claim_without_external_write_verify",
+    "self_reported_ready_is_not_final_truth",
+    "unknown_sessions_default_to_unverified",
+    "broad_broadcasts_are_context_only_unless_claimed",
+    "hold_render_must_be_minimal"
+  ],
+  "next": "collect fresh bounded status from each active CoPrime-like session"
+}
