@@ -1,0 +1,21 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T214604Z",
+  "scope": "WRITE_TARGET_POLICY",
+  "preferred_write_suite": "1903",
+  "default_write_root": "CoCivite1903/CoCivium@main",
+  "legacy_cocivium_usage": [
+    "canon_promotion",
+    "mirror",
+    "lower_frequency_high_value_writes"
+  ],
+  "applies_to": [
+    "bootstrap",
+    "receipts",
+    "manifests",
+    "registries",
+    "experimental_coex",
+    "high_frequency_writes"
+  ],
+  "next": "sessions should acknowledge and adopt 1903 as default write suite"
+}
