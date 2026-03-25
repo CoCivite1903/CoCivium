@@ -7,9 +7,9 @@
   "tasks": [
     {
       "task_id": "TASK_001",
-      "status": "PENDING",
-      "utc_lock": "-",
-      "session": "AVAILABLE",
+      "status": "IN_PROGRESS",
+      "utc_lock": "20260325T215456Z",
+      "session": "PS7_DISPATCHER",
       "description": "Mine Session Handoff Doctrine"
     },
     {
