@@ -1,0 +1,11 @@
+{
+  "session": "CoUS.4.2560325s",
+  "state": "BOUNDED_WAVE_COEX_VERIFIED",
+  "timestamp": "2026-03-25T15:01:30Z",
+  "deltaPath": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium/docs/COBUS_LITE/bootstrap/DELTA_BoundedWave_2026-03-25_15_01_30Z.json",
+  "preservedFront": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium/docs/COBUS_LITE/bootstrap/CoSessionFront.json",
+  "exposurePath": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\COBUS_LITE\\diagnostics\\CoGlukey_Tag_2026-03-25_15_01_30Z.json",
+  "validationPath": "C:\\Users\\rball\\Documents\\GitHub\\CoCivium\\docs\\COBUS_LITE\\diagnostics\\ShadowValidation_2026-03-25_15_01_30Z.json",
+  "shadowMonitor": "CoUS.4.260325s",
+  "mirrorRail": "Node1903"
+}
