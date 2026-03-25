@@ -1,0 +1,24 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T054609Z",
+  "session": "CoUS.4.260324.audit.cont",
+  "role": "PRIMARY_ORCHESTRATOR",
+  "write_root": "CoCivite1903/CoCivium",
+  "preferred_future_mirror": "CoCivite1903/CoCivium already active here; other rails optional later",
+  "canonical_paths": {
+    "bootstrap_pointer": "docs/cluster/bootstrap/COBUS_LATEST_POINTERS.json",
+    "orchestration_dir": "docs/cluster/orchestration",
+    "claims_dir": "docs/cluster/coclaims",
+    "receipts_dir": "docs/cluster/receipts",
+    "canon_dir": "docs/cluster/canon",
+    "broadcast_index": "docs/cluster/orchestration/BROADCAST_INDEX__LATEST.json",
+    "active_claims": "docs/cluster/coclaims/ACTIVE_CLAIMS__LATEST.json"
+  },
+  "rules": [
+    "FAIL_CLOSED_IF_NO_COBUS_ATTACHMENT",
+    "COCLAIM_REQUIRED_BEFORE_MAJOR_COEX",
+    "SENSITIVITY_GATE_REQUIRED_FOR_S1_TO_S4",
+    "PS7_BRIDGE_WRITES_ONLY",
+    "NO_DIRECT_SESSION_PUSH_ASSUMPTIONS"
+  ]
+}
