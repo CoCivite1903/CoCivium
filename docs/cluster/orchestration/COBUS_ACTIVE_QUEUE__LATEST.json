@@ -1,0 +1,52 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T214858Z",
+  "scope": "COBUS_ACTIVE_QUEUE",
+  "preferred_write_suite": "1903",
+  "schema": "TASK_ID | STATUS | SESSION | UTC_LOCK | DESCRIPTION",
+  "tasks": [
+    {
+      "task_id": "TASK_001",
+      "status": "PENDING",
+      "utc_lock": "-",
+      "session": "AVAILABLE",
+      "description": "Mine Session Handoff Doctrine"
+    },
+    {
+      "task_id": "TASK_002",
+      "status": "PENDING",
+      "utc_lock": "-",
+      "session": "AVAILABLE",
+      "description": "CoBus / PIN / pointer doctrine"
+    },
+    {
+      "task_id": "TASK_003",
+      "status": "PENDING",
+      "utc_lock": "-",
+      "session": "AVAILABLE",
+      "description": "CoSense / CoWatcher / Mining Helper Evolution"
+    },
+    {
+      "task_id": "TASK_004",
+      "status": "PENDING",
+      "utc_lock": "-",
+      "session": "AVAILABLE",
+      "description": "Evergreen mandates & policies"
+    },
+    {
+      "task_id": "TASK_005",
+      "status": "PENDING",
+      "utc_lock": "-",
+      "session": "AVAILABLE",
+      "description": "Legacy residue drain"
+    }
+  ],
+  "rules": [
+    "lock by replacing PENDING with IN_PROGRESS and AVAILABLE with session id",
+    "skip IN_PROGRESS and COMPLETE",
+    "one task per session per wave",
+    "emit artifact and receipt before COMPLETE",
+    "default_write_suite=1903"
+  ],
+  "next": "use this queue for claim-gated pickup and overlap prevention"
+}
