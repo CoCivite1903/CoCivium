@@ -1,0 +1,18 @@
+{
+  "session": "CoUS.4.2560325s",
+  "intent": "Session ready to pick up CoBusNet pointers and continue CoEx/CoStacks flows",
+  "cobus": {
+    "ack": "READY_TO_FETCH_POINTERS"
+  },
+  "next": "Proceed with bounded CoEx wave on Node1903 rails",
+  "tray": {
+    "started": false
+  },
+  "git": {
+    "terminal_prompt": "0",
+    "email": "CoCivite1903@CoCivium.org",
+    "user": "CoCivite1903"
+  },
+  "state": "WAKEUP_AND_DEFAULT_GIT_ACCOUNT",
+  "utc": "20260325T212208Z"
+}
