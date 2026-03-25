@@ -1,0 +1,15 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T213906Z",
+  "scope": "MUTATION_POLICY",
+  "sensitivity": "S1",
+  "rules": [
+    "one_mutation_per_wave",
+    "one_bounded_output_per_wave",
+    "no_role_mutation_without_explicit_promotion",
+    "no_identity_mutation_from_wrongly_addressed_note",
+    "if_missing_required_fields_then_output_invalid",
+    "validator_must_run_before_publish_when_feasible"
+  ],
+  "purpose": "make one-mutation-per-wave enforceable via external gating rather than advisory prose only"
+}
