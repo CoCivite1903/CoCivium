@@ -1,0 +1,23 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T192610Z",
+  "session": "CoUS.4.260324.audit.cont",
+  "action": "WAKEUP_AND_IDENTITY_HARDENING",
+  "gh_account": "CoCivite1903",
+  "git_user_name": "CoCivite1903",
+  "git_user_email": "CoCivite1903@CoCivium.org",
+  "git_terminal_prompt": "0",
+  "bootstrap_reachable": true,
+  "coGuardian": {
+    "status": "started_ps1",
+    "path": "C:\\Users\\rball\\AppData\\Local\\CoCivium\\CoGuardian\\cache\\CoGuardianTray.ps1"
+  },
+  "current_write_root": "CoCivite1903/CoCivium",
+  "identity_rules": [
+    "session_id_immutable_per_wave",
+    "display_label_is_not_identity",
+    "target_mismatch_fail_closed",
+    "role_changes_require_explicit_promotion"
+  ],
+  "next": "inject identity-hardening prompts into primary/shadow/coprocessors"
+}
