@@ -1,0 +1,49 @@
+{
+  "state": "COEX_VERIFIED",
+  "source_session": "CoTxSpine260323",
+  "role": "SESSION_COPROCESSOR",
+  "batch": "READY__COTXSPINE_SURF_BATCH1__V1",
+  "sensitivity": "S1",
+  "target_path": "docs/cluster/objects/cotxspine/",
+  "objects": [
+    {
+      "name": "CoAck_Projection_Model",
+      "type": "CoObject",
+      "layer": "CoSurf",
+      "definition": "A projection discipline where each CoAck updates a full canonical state (CoAck_Full) and emits context-gated projections (CoAck_Render for humans, CoAck_Ex for external surfaces).",
+      "cotx_links": [
+        "CoTx_Gibberize",
+        "CoTx_Surface"
+      ],
+      "sensitivity": "S1",
+      "publish_recommendation": "YES"
+    },
+    {
+      "name": "CoSurf_Working_Layer",
+      "type": "CoObject",
+      "layer": "CoSurf",
+      "definition": "The structured, indexable staging layer where CoFoam ideation is actively transformed into CI-usable forms prior to stabilization in CoSpine.",
+      "cotx_links": [
+        "CoTx_Crystallize",
+        "CoTx_Refine",
+        "CoTx_Stabilize"
+      ],
+      "sensitivity": "S1",
+      "publish_recommendation": "YES"
+    },
+    {
+      "name": "CoTx_Deconflict",
+      "type": "CoTx",
+      "layer": "CoSurf",
+      "definition": "A coordination transition that scans CoBus artifacts, evaluates overlap risk, and applies claim/merge/pivot decisions to prevent duplicate or conflicting CoEx.",
+      "cotx_links": [
+        "CoTx_Resonate",
+        "CoTx_Surface"
+      ],
+      "sensitivity": "S1",
+      "publish_recommendation": "YES"
+    }
+  ],
+  "next": "request BATCH2 or ask for publish-ready refinements",
+  "utc": "20260325T055138Z"
+}
