@@ -1,0 +1,16 @@
+START_HERE:
+
+CoBeacon:
+https://raw.githubusercontent.com/CoCivium/CoBusMirror/main/docs/COBEACON_LATEST.txt
+
+Broadcast:
+https://raw.githubusercontent.com/CoCivium/CoBusMirror/main/docs/COBUS_LITE/broadcast/BROADCAST__LATEST__20260204T160027Z.txt
+
+Control Rail:
+https://raw.githubusercontent.com/CoCivium/CoBusMirror/main/docs/COBUS_LITE/canon/COBUSNET_MULTI_COSOURCE_RAIL__20260324T000000Z.md
+
+Active Queue:
+https://raw.githubusercontent.com/CoCivium/CoBusMirror/main/docs/COBUS_LITE/canon/COBUS_ACTIVE_QUEUE__LATEST.md
+
+RULE:
+Fetch -> bind -> execute one bounded task -> emit receipt -> HOLD
