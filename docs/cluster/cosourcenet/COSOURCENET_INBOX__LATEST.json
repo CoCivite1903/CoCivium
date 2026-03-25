@@ -1,0 +1,26 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T213208Z",
+  "scope": "COSOURCENET_INBOX",
+  "sensitivity": "S1",
+  "items": [
+    {
+      "type": "TASK",
+      "id": "TASK_ATTACH_AND_CLASSIFY_NEW_COSOURCES",
+      "summary": "Review newly discovered CoSources, classify roles/status, and mark attachment gaps.",
+      "next": "await_claim"
+    },
+    {
+      "type": "TASK",
+      "id": "TASK_DEFINE_COSOURCE_ROUTING_POLICY",
+      "summary": "Define preferred write/read/mirror/control behavior per provider/account.",
+      "next": "await_claim"
+    },
+    {
+      "type": "TASK",
+      "id": "TASK_HEADLESS_NODE_ONBOARDING",
+      "summary": "Prepare clean browser/account nodes for bounded coprocessor participation.",
+      "next": "await_claim"
+    }
+  ]
+}
