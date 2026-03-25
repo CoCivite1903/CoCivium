@@ -1,0 +1,51 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T213906Z",
+  "scope": "ACTIVE_COPRIME_ROSTER",
+  "sensitivity": "S1",
+  "sessions": [
+    {
+      "status": "UNKNOWN",
+      "confidence": "low",
+      "evidence": "not yet externally validated in this wave",
+      "session": "CoUS.4.260324.audit.cont",
+      "role": "PRIMARY_ORCHESTRATOR?"
+    },
+    {
+      "status": "READY",
+      "confidence": "high",
+      "evidence": "explicit READY SHADOW_MONITOR_ACTIVE screenshot",
+      "session": "CoUS.4.260325s",
+      "role": "SHADOW_MONITOR"
+    },
+    {
+      "status": "DELTA_ONLY",
+      "confidence": "medium",
+      "evidence": "selected POINTER_HEALTH_CHECK_V1",
+      "session": "CoUS.4.260324.audit",
+      "role": "COPROCESSOR?"
+    },
+    {
+      "status": "SELF_REPORTED_READY",
+      "confidence": "low",
+      "evidence": "wake-up / rails restored claim not externally validated",
+      "session": "CoUS.4.260322b.CoStacks",
+      "role": "COPROCESSOR?"
+    },
+    {
+      "status": "UNKNOWN",
+      "confidence": "low",
+      "evidence": "active tab/list only",
+      "session": "Sweepy260324",
+      "role": "UNKNOWN"
+    },
+    {
+      "status": "HOLD",
+      "confidence": "medium",
+      "evidence": "explicit HOLD / no bounded mandate prior screenshot",
+      "session": "CoEvo260322",
+      "role": "COPROCESSOR"
+    }
+  ],
+  "next": "sessions must emit bounded status objects for external validation"
+}
