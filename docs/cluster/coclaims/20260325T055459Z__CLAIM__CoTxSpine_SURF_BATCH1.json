@@ -1,0 +1,9 @@
+{
+  "state": "CLAIMED",
+  "scope": "CoTxSpine_SURF_BATCH1",
+  "session": "CoUS.4.260324.audit.cont",
+  "sensitivity": "S1",
+  "ttl_minutes": 120,
+  "intent": "prevent duplicate landing and control publication",
+  "utc": "20260325T055459Z"
+}
