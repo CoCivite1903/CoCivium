@@ -1,0 +1,24 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T213208Z",
+  "scope": "COSOURCENET_TASKING",
+  "sensitivity": "S1",
+  "intended_roles": [
+    {
+      "target": "CoUS.4.260324.audit.cont",
+      "action": "classify_and_route_new_sources",
+      "role": "PRIMARY_ORCHESTRATOR"
+    },
+    {
+      "target": "CoUS.4.260325s",
+      "action": "validate_no_secret_leakage_in_registry",
+      "role": "SHADOW_MONITOR"
+    },
+    {
+      "target": "ALL_ACTIVE_COPROCESSORS",
+      "action": "propose provider-specific onboarding or policy deltas",
+      "role": "SESSION_COPROCESSOR"
+    }
+  ],
+  "next": "claim_gated_pickup"
+}
