@@ -1,0 +1,7 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T224206Z",
+  "scope": "BACKUP_AUDIT_NOTE",
+  "note": "CoLex_1 is currently an empty non-repo placeholder folder; not a populated backup target.",
+  "next": "exclude from repo-backup failure counts unless populated later"
+}
