@@ -1,0 +1,10 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T215713Z",
+  "session": "PS7_DISPATCHER",
+  "action": "CLAIM_TASK",
+  "task_id": "TASK_001",
+  "task_description": "Mine Session Handoff Doctrine",
+  "queue_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/237bf24dbfc56039ec68dd928519bb3fa5a9f61a/docs/cluster/orchestration/COBUS_ACTIVE_QUEUE__LATEST.json",
+  "next": "request one bounded output from assigned session or primary orchestrator"
+}
