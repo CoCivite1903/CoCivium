@@ -1,0 +1,53 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T205945Z",
+  "scope": "COBUS_INBOX",
+  "classification": "S1",
+  "owner": "rick",
+  "intent": "Offload non-core items from CoStacks session into CoBus Inbox for downstream pickup (claim-gated).",
+  "items": [
+    {
+      "type": "TASK",
+      "id": "TASK_COGUARDIAN_UI_TRAY_REBUILD",
+      "summary": "Rebuild CoGuardian tray/launcher with drag-injection + browser pool awareness.",
+      "next": "await_claim",
+      "sensitivity": "S1"
+    },
+    {
+      "type": "TASK",
+      "id": "TASK_BROWSER_NODE_POOL",
+      "summary": "Standardize Firefox node pool (launch, label, inject, harvest).",
+      "next": "await_claim",
+      "sensitivity": "S1"
+    },
+    {
+      "type": "TASK",
+      "id": "TASK_PUBLICATION_GRADIENT_ENFORCEMENT",
+      "summary": "Enforce S0/S1 abstraction and block higher tiers at publish gate.",
+      "next": "await_claim",
+      "sensitivity": "S1"
+    },
+    {
+      "type": "TASK",
+      "id": "TASK_CLAIM_GATING_SYSTEM",
+      "summary": "Implement CoClaim (single executor, TTL, deconflict).",
+      "next": "await_claim",
+      "sensitivity": "S1"
+    },
+    {
+      "type": "TASK",
+      "id": "TASK_VALIDATION_HELPERS",
+      "summary": "Codify CoGuard checks (constraints, identity, completeness).",
+      "next": "await_claim",
+      "sensitivity": "S1"
+    }
+  ],
+  "rules": [
+    "EXECUTION_MODE=CLAIM_GATED",
+    "MAX_EXECUTORS=1",
+    "DEFAULT_FOR_OTHERS=CONTEXT_ONLY",
+    "FAIL_CLOSED_IF_UNCERTAIN",
+    "NO_COGLUKEY_IN_INBOX"
+  ],
+  "next": "available_for_claim"
+}
