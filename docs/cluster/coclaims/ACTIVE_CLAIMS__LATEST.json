@@ -1,0 +1,14 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260325T054609Z",
+  "claims": [
+    {
+      "scope": "SESSION_REALIGNMENT_AND_COORDINATION_SPINE",
+      "claim_id": "SESSION_REALIGNMENT_AND_COORDINATION_SPINE",
+      "session": "CoUS.4.260324.audit.cont",
+      "expires_utc": "20260325T074611Z",
+      "sensitivity": "S1",
+      "raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/c75850fb1a78b845aa4cc706433d4b6e517985b0/docs/cluster/coclaims/COCLAIM__2026-03-25__20260325T054609Z__SESSION_REALIGNMENT_AND_COORDINATION_SPINE.json"
+    }
+  ]
+}
