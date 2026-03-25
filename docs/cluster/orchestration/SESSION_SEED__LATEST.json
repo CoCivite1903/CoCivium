@@ -1,0 +1,13 @@
+{
+  "state": "COEX_VERIFIED",
+  "session": "CoUS.4.260324.audit.cont",
+  "role": "PRIMARY_ORCHESTRATOR",
+  "capability": [
+    "coBus_write",
+    "session_alignment",
+    "delta_harvest",
+    "autoevo_seed"
+  ],
+  "next": "all sessions must publish READY receipt",
+  "utc": "20260325T044750Z"
+}
