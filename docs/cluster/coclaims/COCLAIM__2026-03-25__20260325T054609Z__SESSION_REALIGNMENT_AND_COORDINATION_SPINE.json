@@ -1,0 +1,12 @@
+{
+  "state": "CLAIMED",
+  "scope": "SESSION_REALIGNMENT_AND_COORDINATION_SPINE",
+  "claim_id": "SESSION_REALIGNMENT_AND_COORDINATION_SPINE",
+  "session": "CoUS.4.260324.audit.cont",
+  "ttl_minutes": 120,
+  "expires_utc": "20260325T074611Z",
+  "sensitivity": "S1",
+  "intent": "prevent_parallel_clobbering_and_sensitive_leakage",
+  "route": "PS7_BRIDGE",
+  "write_root": "CoCivite1903/CoCivium"
+}
