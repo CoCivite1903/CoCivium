@@ -1,0 +1,20 @@
+FROM=rick
+TO=CoUS.4.260324.audit.cont
+STATE=HARD_SUCCESSOR_EXECUTION_ORDER
+INTENT=Stop declarative looping. Act on the newly CoExed orchestration artifacts and return concrete bounded outputs only.
+
+RULES=
+- no more vague global-state claims
+- no claiming staged/enforced/completed without bounded artifact or explicit blocker
+- one bounded mutation only
+- include CoStacks dev vs ops explicitly
+- include CoBusNet anti-CoStink explicitly
+- include April 1 readiness explicitly
+- include CoAck/handoff hardening explicitly
+
+RETURN EXACTLY:
+STATE:
+ROLE:
+ACTION:
+OUTPUT:
+NEXT:
