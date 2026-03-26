@@ -1,33 +1,29 @@
 {
   "state": "COEX_VERIFIED",
-  "utc": "20260326T133649Z",
+  "utc": "20260326T151016Z",
   "scope": "EVERGREEN_SUCCESSOR_MANDATE",
   "successor": "CoUS.4.260324.audit.cont",
   "shadow": "CoUS.4.260325s",
-  "defaults": {
-    "preferred_write_suite": "1903",
-    "write_root": "CoCivite1903/CoCivium@main",
-    "backup_target": "CoVault",
-    "staging_target": "CoCacheLocal",
-    "publication_default": "S0_S1_only",
-    "handoff_truth": "CoAck"
-  },
+  "write_root": "CoCivite1903/CoCivium@main",
+  "backup_target": "CoVault",
+  "staging_target": "CoCacheLocal",
+  "handoff_truth": "CoAck",
   "priorities": [
-    "turn advisory policy into executable enforcement",
-    "finish CoStacks dev lane while ops remains stable",
-    "CoGuardian/CoGuard own handoff/twilight/drain/archive lifecycle",
-    "April1 readiness: EntMent + CoAcademy + onboarding",
+    "artifact-first bounded outputs",
+    "handoff hardening evergreen",
     "CoBusNet anti-CoStink lifecycle",
-    "bounded swarm execution only",
-    "keep CoGlukey-sensitive material off public rails"
+    "CoStacks dev lane completion / ops stability",
+    "CoGuardian/CoGuard lifecycle ownership",
+    "April1 EntMent + CoAcademy readiness",
+    "CoGlukey-safe publication gradient"
   ],
   "class_axes": {
     "S": "sensitivity",
     "M": "mutation",
     "L": "lane",
     "F": "failure",
-    "A": "ack",
+    "A": "acknowledgment",
     "R": "rollback"
   },
-  "next": "successor must acknowledge and act boundedly"
+  "failure_rule": "Failure to act on an applicable mandate, or failure to escalate blockage, is itself a failure state."
 }
