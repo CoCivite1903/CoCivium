@@ -1,20 +1,18 @@
 {
   "state": "COEX_VERIFIED",
-  "utc": "20260326T133649Z",
+  "utc": "20260326T151016Z",
   "scope": "COSTACKS_DEV_OPS_COMPLETION_PLAN",
   "dev_lane": [
     "self-start on boot",
     "bounded AutoEvo loop",
-    "helper-owned handoff/twilight logic",
-    "CoGuardian pulse/DOM/session observer hooks",
+    "handoff/twilight helper ownership",
+    "CoGuardian pulse / DOM / session observer hooks",
     "CoGuard validation gates",
     "anti-CoStink scanning"
   ],
   "ops_lane": [
-    "keep current execution stable",
-    "no broad new mutation",
-    "continue bounded tasks only"
+    "bounded stable execution only",
+    "no broad unverified mutation"
   ],
-  "swap_rule": "Dev lane replaces Ops lane only after shadow-validated readiness and rollback path exists.",
-  "next": "successor outputs readiness checklist and blocker list"
+  "swap_rule": "Dev lane replaces Ops lane only after shadow validation and rollback path exists."
 }
