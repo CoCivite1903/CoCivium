@@ -1,0 +1,12 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "scope": "OPT_IN_ONRAMP_POLICY",
+  "principle": "CoNod / beacons / onramps are discoverable and voluntary, not coercive or auto-executing.",
+  "rules": [
+    "Manual injection and explicit user action only",
+    "No hidden auto-execution",
+    "No stealth prompting via artifacts",
+    "Beacons may invite, not compel"
+  ]
+}
