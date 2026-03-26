@@ -1,0 +1,11 @@
+object_id: COSTATE_CLASSIFICATION_20260326T082336Z
+type: state_classification
+states:
+  - BLIND
+  - HOLD
+  - READ_ATTACHED
+  - WRITE_ATTACHED
+  - FULLY_HITCHED
+  - BLOCKED
+  - COZOMBIE
+rule: CoEx requires RAW(main)+sha256 verification
