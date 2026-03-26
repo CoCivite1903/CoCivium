@@ -1,0 +1,8 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "target_path": "docs/cluster/orchestration/OPT_IN_ONRAMP_POLICY__LATEST.json",
+  "target_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/4461e40848219f2496363c4d1b3eefc90de9313f/docs/cluster/orchestration/OPT_IN_ONRAMP_POLICY__LATEST.json",
+  "algorithm": "SHA256",
+  "value": "7B4D41008F853E62C73E1FD3F927691D876C327ACB5E345CB7596078BBE5D381"
+}
