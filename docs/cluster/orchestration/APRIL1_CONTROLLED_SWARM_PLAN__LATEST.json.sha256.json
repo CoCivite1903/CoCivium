@@ -1,0 +1,8 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "target_path": "docs/cluster/orchestration/APRIL1_CONTROLLED_SWARM_PLAN__LATEST.json",
+  "target_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/882d0c01fa747815bb35d029ef9456347111ae22/docs/cluster/orchestration/APRIL1_CONTROLLED_SWARM_PLAN__LATEST.json",
+  "algorithm": "SHA256",
+  "value": "42C1AA7F60FED48F918566B24135DC47DD29D2A42C6BADE8AA3B9820F2B60575"
+}
