@@ -1,0 +1,14 @@
+# CONODON SUMMARY
+# GENERATED: 20260326T164612Z
+# PURPOSE: Copy-pasteable CoPreAll prompt/reference URLs for CoSteward, CoContributor, AI, session ingestion.
+# INSTRUCTIONS: Open this raw text, copy all, paste into session dialog when manual rails re-alignment is desired.
+# NOTE: This is manual/voluntary, not auto-executing.
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/onramps/CONOD_MANUAL_INJECT__LATEST.txt
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/onramps/SUCCESSOR_DIRECTIVE__LATEST.txt
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/onramps/SHADOW_DIRECTIVE__LATEST.txt
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/0a02d2e1462d93bce69195ee481f90d05e1639c0/docs/cluster/BOOTSTRAP_LINK_PACK_LATEST.json
+https://raw.githubusercontent.com/CoCivium/CoBusMirror/598dc03178e78e190eae91f47337b01da3bc2e01/docs/COBUS_LITE/broadcast/BROADCAST__LATEST__20260204T160027Z.txt
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/orchestration/EVERGREEN_SUCCESSOR_MANDATE__LATEST.json
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/orchestration/COBUSNET_ANTI_COSTINK_POLICY__LATEST.json
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/orchestration/COSTACKS_DEV_OPS_COMPLETION_PLAN__LATEST.json
+https://raw.githubusercontent.com/CoCivite1903/CoCivium/main/docs/cluster/orchestration/APRIL1_CONTROLLED_SWARM_PLAN__LATEST.json
