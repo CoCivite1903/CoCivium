@@ -1,0 +1,8 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "target_path": "docs/cluster/orchestration/EVERGREEN_SUCCESSOR_MANDATE__LATEST.json",
+  "target_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/f8ce587c4182a6fd047fcb59f6f4b95575b284d7/docs/cluster/orchestration/EVERGREEN_SUCCESSOR_MANDATE__LATEST.json",
+  "algorithm": "SHA256",
+  "value": "E791C169AB78F43A69316B254AF0A1F8A1C4C33264CFF4DED29EE938D280AC59"
+}
