@@ -1,0 +1,20 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "scope": "BOOKMARK_MANIFEST",
+  "folder": "CoCivium",
+  "items": [
+    {
+      "kind": "manual_onramp",
+      "name": "CoNod Manual Inject"
+    },
+    {
+      "kind": "status_beacon",
+      "name": "CoBus Broadcast Latest"
+    },
+    {
+      "kind": "bootstrap_pack",
+      "name": "Bootstrap Link Pack"
+    }
+  ]
+}
