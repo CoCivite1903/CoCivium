@@ -1,0 +1,26 @@
+{
+  "state": "READY_FOR_TAKEOVER",
+  "utc": "20260326T114901Z",
+  "prior_primary": "THIS_SESSION",
+  "successor": "CoUS.4.260324.audit.cont",
+  "shadow": "CoUS.4.260325s",
+  "write_root": "CoCivite1903/CoCivium@main",
+  "backup_target": "\\\\Server\\CoCiviumAdmin\\CoVault",
+  "checks": {
+    "backup_target_exists": true,
+    "queue_raw_ok": true,
+    "policy_raw_ok": true,
+    "roster_raw_ok": true,
+    "successor_declared": true,
+    "shadow_declared": true,
+    "alternate_path": true
+  },
+  "fail_closed_rules": [
+    "do_not_drain_primary_if_handoff_blocked",
+    "do_not_claim_successor_authority_without_bounded_successor_ack",
+    "keep_cogluke y_sensitive_content_off_public_rails",
+    "use_covault_as_backup_target",
+    "prefer_1903_write_suite"
+  ],
+  "next": "paste takeover prompt into successor and twilight this session"
+}
