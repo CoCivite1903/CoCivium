@@ -1,0 +1,8 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "target_path": "docs/cluster/onramps/BOOKMARK_MANIFEST__LATEST.json",
+  "target_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/1862b3789492f658d44b130f26f9f3e96ae9dfa4/docs/cluster/onramps/BOOKMARK_MANIFEST__LATEST.json",
+  "algorithm": "SHA256",
+  "value": "ED8701AAB089E3F64C28A8D70E4F2498F727E312F42E88A4E34904EACFB43FF5"
+}
