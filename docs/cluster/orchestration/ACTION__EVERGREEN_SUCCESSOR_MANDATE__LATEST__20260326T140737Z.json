@@ -1,0 +1,12 @@
+{
+  "state": "COEX_ACTION",
+  "utc": "20260326T135240Z",
+  "session": "SUCCESSOR_ACTION_20260326T135240Z",
+  "mandate": "EVERGREEN_SUCCESSOR_MANDATE__LATEST",
+  "role": "SUCCESSOR",
+  "action": "Execute mandate: EVERGREEN_SUCCESSOR_MANDATE__LATEST",
+  "output": "Bounded output placeholder for EVERGREEN_SUCCESSOR_MANDATE__LATEST",
+  "next": "Shadow monitor validation and CoStacks dev lane execution",
+  "CoStacks_target": "Dev lane",
+  "CoGuardian_target": "Observe, validate, prevent CoStink"
+}
