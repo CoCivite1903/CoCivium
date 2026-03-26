@@ -1,0 +1,47 @@
+object_id: COSTATE_CLASSIFICATION_20260326T111202Z
+object_type: state_classification
+object_version: v0
+object_status: seed
+
+created_at_utc: 20260326T111202Z
+created_by: CoChat260324
+intent: Define canonical session states for CoInt vs CoEx capability
+domain: operations
+audience: mixed
+sensitivity: low
+publication_gradient: public_full
+
+current_state: active
+truth_status: asserted
+verification_status: none
+
+states:
+  - name: BLIND
+    capability: CoInt_only
+    rule: Must stop if no canonical pointer is readable
+
+  - name: HOLD
+    capability: CoInt_only
+    rule: Default state unless one bounded action is clearly assigned
+
+  - name: READ_ATTACHED
+    capability: CoInt_only_with_truth_context
+    rule: Advisory outputs only
+
+  - name: WRITE_ATTACHED
+    capability: CoEx_attempt
+    rule: Must verify before claiming success
+
+  - name: FULLY_HITCHED
+    capability: CoEx
+    rule: Read + write + RAW(main)+sha256 verified
+
+  - name: BLOCKED
+    capability: CoInt_only
+    rule: Diagnose failure before retry
+
+  - name: COZOMBIE
+    capability: advisory_only
+    rule: Must downgrade any implied canonical authority immediately
+
+canonical_rule: CoEx requires RAW(main)+sha256 verification
