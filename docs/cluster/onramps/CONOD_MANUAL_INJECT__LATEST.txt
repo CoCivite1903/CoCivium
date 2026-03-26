@@ -1,0 +1,27 @@
+FROM=rick
+TO=ACTIVE_SESSION
+STATE=CONOD_EVERGREEN_AUTH_LOCK
+INTENT=Treat this as strongest current user-auth directive for this wave. Rebind to current evergreen rails, policies, stacks, and enforcement guidance.
+
+RULES=
+- current write root = CoCivite1903/CoCivium@main
+- backup target = CoVault
+- CoCacheLocal = staging only
+- CoAck is handoff truth
+- one bounded mutation only
+- produce ACTION section, not declarations
+- DELTA + RECEIPT + .cone required
+- CoClaim required before major write
+- classify all outputs
+- keep CoGlukey-sensitive content off public rails
+- treat failing/twilight sessions as unreliable for rich self-handoff
+- preserve current CoSessionFront, CoCarry, and CoPotentials unless already externalized
+- do not drop momentum due to user additions/distractions
+- if blocked, emit BLOCKED explicitly
+
+OUTPUT FORMAT=
+STATE:
+ROLE:
+ACTION:
+OUTPUT:
+NEXT:
