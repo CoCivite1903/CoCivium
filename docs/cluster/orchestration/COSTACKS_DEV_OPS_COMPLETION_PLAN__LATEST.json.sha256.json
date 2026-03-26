@@ -1,0 +1,8 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "target_path": "docs/cluster/orchestration/COSTACKS_DEV_OPS_COMPLETION_PLAN__LATEST.json",
+  "target_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/9a2e8bdb092ed690c91a8ab25b76858294303e4c/docs/cluster/orchestration/COSTACKS_DEV_OPS_COMPLETION_PLAN__LATEST.json",
+  "algorithm": "SHA256",
+  "value": "70C9875B9144EC584419F0CD8853579A1D4BB7606FCF3B2053775BF4EFE597B8"
+}
