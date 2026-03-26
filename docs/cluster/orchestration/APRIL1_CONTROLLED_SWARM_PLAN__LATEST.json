@@ -1,6 +1,6 @@
 {
   "state": "COEX_VERIFIED",
-  "utc": "20260326T133649Z",
+  "utc": "20260326T151016Z",
   "scope": "APRIL1_CONTROLLED_SWARM_PLAN",
   "max_parallel_workers": 5,
   "priorities": [
@@ -13,10 +13,9 @@
   "rules": [
     "one task per worker",
     "no overlapping scope",
-    "CoClaim required before task execution",
+    "CoClaim required",
     "S0/S1 public-safe only unless explicitly cleared",
     "DELTA + RECEIPT + .cone required",
     "shadow validates duplication/classification"
-  ],
-  "next": "successor assigns first 5 bounded tasks with output paths"
+  ]
 }
