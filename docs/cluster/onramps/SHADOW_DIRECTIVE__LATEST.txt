@@ -1,0 +1,21 @@
+FROM=rick
+TO=CoUS.4.260325s
+STATE=SUCCESSOR_LOOP_CHECK
+INTENT=Validate that successor actually acts on the orchestration artifacts and does not collapse into declarative looping.
+
+CHECKS=
+- successor references all required orchestration artifacts
+- successor produces concrete bounded outputs
+- successor includes CoStacks dev vs ops
+- successor includes CoBusNet anti-CoStink
+- successor includes April 1 tasking
+- successor includes handoff/CoAck hardening
+
+OUTPUT=
+session:
+role:
+successor_ok:
+missing_items:
+looping_detected:
+reason:
+next:
