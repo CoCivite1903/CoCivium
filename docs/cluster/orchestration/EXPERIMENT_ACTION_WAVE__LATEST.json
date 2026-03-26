@@ -1,0 +1,17 @@
+{
+  "state": "COEX_READY",
+  "utc": "20260326T135009Z",
+  "scope": "EXPERIMENT_ACTION_WAVE",
+  "description": "Force CoPrime & successors to produce per-wave actionable outputs",
+  "mandates": [
+    "EVERGREEN_SUCCESSOR_MANDATE__LATEST",
+    "COBUSNET_ANTI_COSTINK_POLICY__LATEST",
+    "COSTACKS_DEV_OPS_COMPLETION_PLAN__LATEST",
+    "APRIL1_CONTROLLED_SWARM_PLAN__LATEST"
+  ],
+  "action_required": "Emit bounded ACTION section for each mandate, include output, next, and shadow-validation path",
+  "max_workers": 5,
+  "CoStacks_target": "Dev lane completion first, shadow validated",
+  "CoGuardian_target": "Observe and verify all output, prevent CoStink",
+  "CoGlukey_policy": "Sensitive content off public rails, abstract S0/S1 only"
+}
