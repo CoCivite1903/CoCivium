@@ -1,8 +1,7 @@
 {
   "state": "COEX_VERIFIED",
-  "utc": "20260326T133649Z",
+  "utc": "20260326T151016Z",
   "scope": "COBUSNET_ANTI_COSTINK_POLICY",
-  "rule": "Non-CoAcked, non-deprecated, stale, orphaned pointers/artifacts must not accumulate indefinitely.",
   "lifecycle_fields": [
     "created_utc",
     "ttl",
@@ -13,12 +12,12 @@
     "lane",
     "sensitivity"
   ],
-  "controls": [
+  "rules": [
     "No pointer/artifact is evergreen by default",
     "Missing CoAck after TTL => stale",
     "Stale + superseded => gc_eligible=true",
-    "Non-CoAcked pointer buildup is a system risk",
-    "CoBusNet garbage collection must be helper-owned"
-  ],
-  "next": "successor emits first bounded GC/deprecation plan"
+    "Non-CoAcked orphan residue is CoStink",
+    "Helpers own garbage collection / deprecation / archival",
+    "CoBusNet CoStink is a systemic risk"
+  ]
 }
