@@ -1,0 +1,8 @@
+{
+  "state": "COEX_VERIFIED",
+  "utc": "20260326T151016Z",
+  "target_path": "docs/cluster/orchestration/COBUSNET_ANTI_COSTINK_POLICY__LATEST.json",
+  "target_raw": "https://raw.githubusercontent.com/CoCivite1903/CoCivium/d5f09076d56c298bd1fcd0968654307a41e72dea/docs/cluster/orchestration/COBUSNET_ANTI_COSTINK_POLICY__LATEST.json",
+  "algorithm": "SHA256",
+  "value": "510E94AD3282B4F4AA5ED4C16469F466FE5612F85F75710798381D82EEC0D45A"
+}
